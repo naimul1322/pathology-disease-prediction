@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Model — Pathology Disease Prediction</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <!-- Top Navigation Bar -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="{{ url_for('home') }}" class="nav-logo">
+                Pathology Disease Prediction
+            </a>
+            <div class="nav-links">
+                <a href="{{ url_for('home') }}" class="nav-link">🩺 Go to Prediction Form</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <!-- About Card -->
+        <div class="card about-card">
+
+            <!-- Title & Description -->
+            <div class="about-header">
+                <h2>Machine Learning Architecture &amp; Benchmark Evaluation</h2>
+                <p>Trained and rigorously evaluated on 1,210 pathology patient records from Final_Pathology_ML.ipynb.
+                </p>
+            </div>
+
+            <!-- Section Heading -->
+            <div class="section-title">
+                📊 5-Model Performance Comparison (Test Dataset):
+            </div>
+
+            <!-- Performance Table -->
+            <div class="table-responsive">
+                <table class="performance-table">
+                    <thead>
+                        <tr>
+                            <th>Model Name</th>
+                            <th>Accuracy</th>
+                            <th>Precision</th>
+                            <th>Recall</th>
+                            <th>F1 Score</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Highlighted Best & Deployed Model Row -->
+                        <tr class="highlight-best">
+                            <td><strong>Decision Tree Classifier (Best &amp; Deployed)</strong></td>
+                            <td><strong>97.11%</strong></td>
+                            <td><strong>99.41%</strong></td>
+                            <td><strong>97.94%</strong></td>
+                            <td><strong>98.57%</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Support Vector Machine (SVM)</td>
+                            <td>90.08%</td>
+                            <td>98.60%</td>
+                            <td>92.33%</td>
+                            <td>94.03%</td>
+                        </tr>
+                        <tr>
+                            <td>Logistic Regression</td>
+                            <td>86.36%</td>
+                            <td>92.93%</td>
+                            <td>90.86%</td>
+                            <td>91.75%</td>
+                        </tr>
+                        <tr>
+                            <td>K-Nearest Neighbors (KNN)</td>
+                            <td>85.54%</td>
+                            <td>96.25%</td>
+                            <td>88.79%</td>
+                            <td>90.65%</td>
+                        </tr>
+                        <tr>
+                            <td>Gaussian Naive Bayes</td>
+                            <td>73.55%</td>
+                            <td>87.68%</td>
+                            <td>90.56%</td>
+                            <td>87.42%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Explanatory Architecture Box -->
+            <div class="why-box">
+                <h4>Why Decision Tree is the Best Model</h4>
+                <ul>
+                    <li><strong>Superior Predictive Performance:</strong> Outperformed all other 4 machine learning
+                        algorithms, achieving the highest Exact Match Accuracy (<strong>97.11%</strong>) and Weighted
+                        F1-Score (<strong>98.57%</strong>).</li>
+                    <li><strong>Optimal Regularization:</strong> Tuned with hyperparameters <code>max_depth = 3</code>
+                        and <code>min_samples_leaf = 15</code> to eliminate overfitting while maintaining sharp
+                        generalization on unseen patient data.</li>
+                    <li><strong>Simultaneous Multi-Output Classification:</strong> Wrapped inside
+                        <code>MultiOutputClassifier</code> to independently and concurrently detect all 8 pathology
+                        conditions.
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Bottom Action Navigation -->
+            <div class="about-actions">
+                <a href="{{ url_for('home') }}" class="btn-goto">
+                    🩺 Open Patient Prediction Form
+                </a>
+            </div>
+
+        </div>
+
+        <!-- Academic Disclaimer Footer -->
+        <footer class="footer-disclaimer">
+            <p class="disclaimer-title">🩺 <strong>Disclaimer:</strong> This application is developed for academic and
+                research purposes only.</p>
+            <p class="disclaimer-text">It does not replace professional medical diagnosis or treatment. Please consult a
+                qualified healthcare professional for medical advice.</p>
+            <p class="disclaimer-credit">Developed by Naimul Islam &amp; Arafat &nbsp;•&nbsp; &copy; 2026</p>
+        </footer>
+
+    </div>
+
+</body>
+
+</html>

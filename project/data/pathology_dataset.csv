@@ -1,0 +1,1211 @@
+Date,Name,Years,Sex,Blood Group,Hemoglobin (Hb %),RBS (mmol/L),Creatinine (mg/dc),ESR(mm/hr),HBsAg,WBC (White Blood Cell),Diseases
+01/01/2025,Md Altab Hossain,40,Male,O+,11.5,5.7,0.98,48,Negative,5400,"Anemia, Inflammation"
+01/01/2025,Abul Hossain,55,Male,A+,11.5,7.5,0.98,48,Negative,10500,"Anemia, Inflammation"
+01/01/2025,Sathy,55,Female,B+,11.5,25.4,0.69,55,Negative,4300,"Anemia, Diabetes, Inflammation"
+01/01/2025,Ruma Khatun,28,Female,O+,11.5,5.6,0.9,4,Negative,7500,Anemia
+01/01/2025,Salma Khatun,48,Female,AB+,10.6,4.3,0.83,7.3,Negative,7100,Anemia
+01/01/2025,Rokeya Khatun,47,Female,A+,11.4,9.6,0.95,1.4,Negative,9700,"Anemia, Prediabetes"
+01/01/2025,Subhan,55,Male,O+,9.6,4.8,1.28,12.7,Negative,6800,Anemia
+01/01/2025,Durjoy,25,Male,O+,12.8,3.9,1.3,9.6,Negative,5700,Anemia
+03/01/2025,Afjal Hossain,50,Male,O-,11.7,5.8,1.01,7,Negative,5300,Anemia
+03/01/2025,Aleya Khatun,42,Female,O+,10.5,6.5,0.98,12.6,Negative,10200,Anemia
+03/01/2025,Arjhun Khatun,33,Female,O+,10.8,5.6,0.89,6.6,Negative,10700,Anemia
+03/01/2025,Moqbul Hossain,75,Male,AB+,10.5,5.2,1,52,Negative,10900,"Anemia, Inflammation"
+04/01/2025,Dewan Sumon,12,Male,O+,12.8,5.6,1.17,3.8,Negative,5100,Anemia
+05/01/2025,Nuhubin Korim,10,Female,,11.6,6.8,0.83,25,Negative,10500,"Anemia, Inflammation"
+05/01/2025,Shoriful Islam,36,Male,A+,12.2,6.5,0.84,36,Negative,9800,"Anemia, Inflammation"
+05/01/2025,Runa Khatun,19,Female,B+,10.9,6.5,0.83,26,Negative,10700,"Anemia, Inflammation"
+05/01/2025,Shilpi Khatun,25,Female,A+,9.8,5.8,0.83,19,Negative,9400,Anemia
+07/01/2025,Rima Khatun,22,Female,AB+,11.5,6,0.76,21,Negative,10500,"Anemia, Inflammation"
+07/01/2025,Foridul Islam,33,Male,,12.5,5.8,0.71,32,Negative,10500,"Anemia, Inflammation"
+07/01/2025,Shorna Khatun,22,Female,,11.4,5.8,0.82,18,Negative,9500,Anemia
+08/01/2025,Naima Islam,19,Female,AB+,10.8,5.8,0.71,34,Negative,10500,"Anemia, Inflammation"
+09/01/2025,Nupur,21,Female,,11.3,6.5,0.9,29,Negative,9700,"Anemia, Inflammation"
+09/01/2024,Saleha Khatun,42,Female,A+,11.2,6.5,0.84,16.8,Negative,10500,Anemia
+09/01/2025,Dola Khatun,20,Female,B+,9.1,5.5,0.69,8.4,Negative,9500,Anemia
+10/01/2025,Mahima Khatun,38,Female,B+,11,6.8,0.99,4.5,Negative,4400,Anemia
+11/01/2025,Mst. Ferdausi Khatun,18,Female,A+,11.2,5.5,0.87,34,Negative,10200,"Anemia, Inflammation"
+12/01/2025,Sofia Khatun,20,Female,AB+,11.4,5.5,1.1,28,Negative,9500,"Anemia, Inflammation"
+12/01/2025,Runa Khatun,14,Female,O+,11,4.8,0.86,11.4,Negative,4300,Anemia
+12/01/2025,Nasima Khatun,50,Female,A+,11.3,7.6,0.99,18.9,Negative,5100,Anemia
+13/01/2025,Husne Ara,29,Female,O+,9,7.4,0.67,14.8,Negative,9500,Anemia
+13/01/2025,Momotaz Begum,65,Female,B+,10.9,6.9,0.98,7.2,Negative,10500,Anemia
+14/01/2025,Rezaul Karim,35,Female,O+,12.5,8.4,0.89,10.9,Negative,10800,Prediabetes
+14/01/2025,Zesmin,20,Female,B+,9.8,7.6,1.02,15.2,Negative,6700,Anemia
+14/01/2025,Hasina,30,Female,A+,8.5,8.9,0.98,16.7,Negative,9500,"Anemia, Prediabetes"
+16/01/2025,Selina Khatun,20,Female,O+,10.4,5.3,0.74,11.3,Negative,9800,Anemia
+16/01/2025,Shorimon,60,Female,,10.5,15.3,0.75,4.1,Negative,9500,"Anemia, Diabetes"
+16/01/2025,Monjarul Islam,59,Male,A+,11.7,7.8,0.71,6.9,Negative,11500,"Anemia, Prediabetes, Leukocytosis"
+16/01/2025,Parul Khatun,35,Female,O-,11.4,5.4,0.75,1.3,Negative,10500,Anemia
+17/01/2025,Yesmin,11,Female,B+,12.2,4.7,0.96,16,Negative,6900,Normal
+17/01/2025,Asia,50,Female,,10.8,5.8,0.67,51,Negative,9500,"Anemia, Inflammation"
+17/01/2025,Kader,70,Male,A+,11.5,6.7,0.98,57,Negative,10400,"Anemia, Inflammation"
+18/01/2025,Aklima Khatun,28,Female,B+,11.5,5.7,0.51,34,Negative,10500,"Anemia, Kidney Problem, Inflammation"
+18/01/2025,Rubel Hossain,45,Male,B+,12.8,5.8,0.98,6,Negative,4300,Anemia
+18/01/2025,Borna khatun,20,Female,A+,9.3,5.4,0.64,27,Negative,10500,"Anemia, Inflammation"
+18/01/2025,Khadiza akter,25,Female,B+,8.5,5.8,0.55,35,Negative,9800,"Anemia, Kidney Problem, Inflammation"
+19/01/2025,Sheuly Khatun,25,Female,AB+,10.1,5.8,0.68,32,Negative,10500,"Anemia, Inflammation"
+19/01/2025,Najmul,17,Male,B+,13.5,7.2,1.07,5.6,Negative,6500,Normal
+19/01/2025,Santo,23,Male,B+,12.8,5.4,0.58,34,Negative,9800,"Anemia, Kidney Problem, Inflammation"
+20/01/2025,Munni Akhter,30,Female,A+,11.5,6.5,0.7,22,Negative,10800,"Anemia, Inflammation"
+20/01/2025,Mst Mumtaj Parvin,56,Female,B+,11.5,7.2,0.93,33,Negative,9500,"Anemia, Inflammation"
+20/01/2025,Jui,20,Female,A+,10.5,5.5,0.89,35,Negative,10200,"Anemia, Inflammation"
+20/01/2025,Lucky khatun,20,Female,O+,10,5.8,0.79,47,Negative,9500,"Anemia, Inflammation"
+20/01/2025,Rokeya Khatun,60,Female,,11.5,5.8,0.67,35,Negative,10900,"Anemia, Inflammation"
+21/01/2025,Mst Zomela Khatun,70,Female,A+,9.8,8.2,1.24,46,Negative,9500,"Anemia, Prediabetes, Kidney Problem, Inflammation"
+21/01/2025,Joni,25,Male,AB+,12.5,5.3,0.75,32,Negative,10500,"Anemia, Inflammation"
+21/01/2025,Shaun,25,Male,O+,14.5,5.8,0.86,8.9,Negative,9300,Normal
+21/01/2025,Lota,20,Female,,10.5,5.9,0.89,49,Negative,10800,"Anemia, Inflammation"
+22/01/2025,Lily Akhter,23,Female,B+,10.6,5.5,0.68,31,Negative,8500,"Anemia, Inflammation"
+22/01/2025,Tahmina,30,Female,A+,11.5,6.5,0.87,42,Negative,10200,"Anemia, Inflammation"
+23/01/2025,Rohima Akhter,30,Female,,10,5.4,0.98,29,Negative,10500,"Anemia, Inflammation"
+23/01/2025,Salman,25,Male,O+,14.2,4.8,1.21,11.1,Negative,6800,Normal
+23/01/2025,Asha,25,Female,B+,9.9,5.8,0.76,31,Negative,9700,"Anemia, Inflammation"
+24/01/2025,Sabina Akhter,25,Female,,11.5,6.7,0.85,35,Negative,10800,"Anemia, Inflammation"
+24/01/2025,Sadia,18,Female,A+,9.8,5.5,0.86,38,Negative,9500,"Anemia, Inflammation"
+24/01/2025,Shafi,22,Male,,12.8,6.8,0.89,25,Negative,11200,"Anemia, Inflammation, Leukocytosis"
+25/01/2025,Mim Akhter,20,Female,A+,10.8,5.8,0.89,34,Negative,10000,"Anemia, Inflammation"
+25/01/2025,Akhi Akher,26,Female,,10.2,4.9,0.76,42,Negative,9800,"Anemia, Inflammation"
+26/01/2025,Mst Tithy,20,Female,B+,9.8,5.8,0.92,55,Negative,10200,"Anemia, Inflammation"
+26/01/2025,Champa,19,Female,B+,10.4,5.5,0.92,38,Negative,9500,"Anemia, Inflammation"
+26/01/2025,Omal Gosh,34,Male,AB+,11.2,7.9,0.89,42,Negative,10000,"Anemia, Prediabetes, Inflammation"
+27/01/2025,Gulam Mustofa,75,Male,O-,11.3,11.8,0.77,7.2,Negative,7500,"Anemia, Diabetes"
+27/01/2025,Alamin,20,Male,A+,12.2,6.3,0.89,34,Negative,11800,"Anemia, Inflammation, Leukocytosis"
+27/01/2025,Sagor,21,Male,A+,12.8,5.4,0.78,43,Negative,4000,"Anemia, Inflammation"
+27/01/2025,Akibul islam,19,Male,B+,13.2,5.7,0.98,34,Negative,6000,Inflammation
+27/01/2025,Raju,20,Male,A+,12.5,5.5,0.72,55,Negative,9400,"Anemia, Inflammation"
+28/01/2025,Akram,45,Male,,12.2,6.8,0.79,42,Negative,8300,"Anemia, Inflammation"
+28/01/2025,Fedric Roy,50,Male,A+,12.5,5.2,0.85,35,Negative,11000,"Anemia, Inflammation"
+29/01/2025,Esrat Jahan,45,Female,B+,11,6.9,0.68,31,Negative,10500,"Anemia, Inflammation"
+30/01/2025,Abdul Motaleb,52,Male,,12.3,8.2,0.73,42,Negative,11200,"Anemia, Prediabetes, Inflammation, Leukocytosis"
+31/01/2025,Sheuly Khatun,20,Female,A+,9.3,5.5,0.86,27,Negative,9500,"Anemia, Inflammation"
+31/01/2025,Juthy Khatun,25,Female,B+,9.8,5.7,0.68,49,Negative,10500,"Anemia, Inflammation"
+01/02/2025,Kamrunnahar,45,Female,B+,13.6,5.5,0.77,25,Negative,7500,Inflammation
+02/02/2025,Amir Ali,75,Male,,10.5,5.7,0.95,55,Negative,5900,"Anemia, Inflammation"
+02/02/2025,Badol Mia,60,Male,O+,11.5,11.7,0.53,34,Negative,6700,"Anemia, Diabetes, Kidney Problem, Inflammation"
+02/02/2025,Shapla,25,Female,O+,9.9,6.8,0.76,52,Negative,9500,"Anemia, Inflammation"
+02/02/2025,Abdus Samad,76,Male,A+,8.7,6.5,0.82,89,Negative,11200,"Anemia, Inflammation, Leukocytosis"
+03/02/2025,Tahmina Khatun,50,Female,,10.8,9.9,0.85,55,Negative,9800,"Anemia, Prediabetes, Inflammation"
+04/02/2025,Kulsum,21,Female,O+,11.2,5.2,0.85,27,Negative,9200,"Anemia, Inflammation"
+04/02/2025,Aysha,52,Female,,11.5,6.7,0.92,63,Negative,8500,"Anemia, Inflammation"
+04/02/2025,Ritu,25,Female,B+,9.8,5.5,0.65,34,Negative,9500,"Anemia, Inflammation"
+04/02/2025,Mou,18,Female,,10.7,6.8,0.76,18,Negative,10200,Anemia
+04/02/2025,Lapli,25,Female,B+,8.7,5.5,0.98,34,Negative,11000,"Anemia, Inflammation"
+04/02/2025,Shoron,20,Male,A+,13.5,6.3,0.67,52,Negative,10500,"Kidney Problem, Inflammation"
+05/02/2025,Jamal,50,Male,O+,8.5,5.2,0.98,34,Negative,10200,"Anemia, Inflammation"
+05/02/2025,Aklima Khatun,25,Female,,9.5,9.6,0.76,54,Negative,9800,"Anemia, Prediabetes, Inflammation"
+05/02/2025,Kulsum,54,Female,AB+,10.5,18.4,0.65,56,Negative,8300,"Anemia, Diabetes, Inflammation"
+05/02/2025,Hasina Khatun,35,Female,O+,10.5,5.6,0.75,31,Negative,10700,"Anemia, Inflammation"
+05/02/2025,Amir Ali,60,Male,,11.5,6.8,0.98,27,Negative,9500,"Anemia, Inflammation"
+05/02/2025,Shohana,26,Female,O+,9.2,6.6,0.86,78,Negative,8800,"Anemia, Inflammation"
+05/02/2025,Rifat,20,Male,O+,12.9,6.5,0.76,52,Negative,10200,"Anemia, Inflammation"
+05/02/2025,Sukr Ali,65,Male,B+,10.5,6.8,0.96,35,Negative,9800,"Anemia, Inflammation"
+05/02/2025,Rajia Khatun,17,Female,A+,10.8,5.2,0.75,55,Negative,9200,"Anemia, Inflammation"
+05/02/2025,Sadia Khatun,27,Female,,8.5,5.8,0.89,69,Negative,10500,"Anemia, Inflammation"
+05/02/2025,Riad Islam,34,Male,O+,12.7,6.5,0.72,18,Negative,9700,"Anemia, Inflammation"
+05/02/2025,Israt Jahan Eva,19,Female,B+,11.4,7,0.8,29,Negative,9500,"Anemia, Inflammation"
+07/02/2025,Bithi Khatun,32,Female,,11,4.9,0.65,25,Negative,8800,"Anemia, Inflammation"
+07/02/2025,Sayadullah,60,Male,A+,11.5,5.6,0.6,25,Negative,10500,"Anemia, Kidney Problem, Inflammation"
+07/02/2025,Sajid Hossian,5,Male,B+,10.6,6.5,0.97,32,Negative,9400,"Anemia, Inflammation"
+07/02/2025,Lily Khatun,40,Female,O-,11.2,5.5,0.71,55,Negative,10200,"Anemia, Inflammation"
+07/02/2025,Goljar,45,Male,B+,11.5,5.7,0.95,18,Negative,10200,"Anemia, Inflammation"
+07/02/2025,Zim khatun,17,Female,,9.7,5.5,0.88,26,Negative,10500,"Anemia, Inflammation"
+10/02/2025,Habibur Rahman,19,Male,AB-,11.8,5.7,1.02,18,Negative,10500,"Anemia, Inflammation"
+10/02/2025,Shahin,35,Male,O+,11.8,5.5,1.18,15,Negative,10500,Anemia
+11/02/2025,Akhi Khatun,15,Female,B+,11.2,5.6,1.05,22,Negative,10800,"Anemia, Inflammation"
+11/02/2025,Aleya Khatun,40,Female,,10.6,6.7,1.05,52,Negative,9200,"Anemia, Inflammation"
+12/02/2025,Shima Khatun,25,Female,A+,9,5.6,0.72,56,Negative,9500,"Anemia, Inflammation"
+12/02/2025,Amena Mim,18,Female,O+,12.8,6.4,0.6,47,Negative,9200,Inflammation
+12/02/2025,Rokeya,48,Female,A+,7.9,5.2,0.75,67,Negative,8800,"Anemia, Inflammation"
+12/02/2025,Zohirul Islam,37,Male,,11.2,5.9,1.01,45,Negative,5300,"Anemia, Inflammation"
+12/02/2025,Babul Mia,75,Male,A+,14.9,6.5,0.86,4.4,Negative,5100,Normal
+12/02/2025,Saddam,28,Male,O+,13.8,4.7,1.03,6.7,Negative,9200,Normal
+12/02/2025,Setu Khatun,23,Female,A-,10.5,5.4,0.78,25,Negative,9000,"Anemia, Inflammation"
+13/02/2025,Abeda Khatun,20,Female,O+,9.4,4.1,0.67,48,Negative,10700,"Anemia, Inflammation"
+13/02/2025,Zohurul Islam,36,Male,A+,11.2,6.5,0.75,4.6,Negative,10500,Anemia
+14/02/2025,Rejaul Islam,50,Male,O-,10.8,4.8,1.12,95,Negative,9500,"Anemia, Inflammation"
+14/02/2025,Sultan Mahmud,55,Male,A+,11.5,6.7,0.98,22,Negative,10200,"Anemia, Inflammation"
+15/02/2025,Urmi Khatun,20,Female,A+,9.7,6.5,0.58,38,Negative,9200,"Anemia, Kidney Problem, Inflammation"
+15/02/2025,Rokeya,48,Female,A+,11.2,6.6,0.67,20,Negative,10500,Anemia
+16/02/2025,Rajia Khatun,28,Female,AB+,9.1,7.7,0.88,55,Negative,10800,"Anemia, Inflammation"
+17/02/2025,Bondhon Rahman,30,Male,A+,11.5,8.2,0.55,28,Negative,10500,"Anemia, Prediabetes, Kidney Problem, Inflammation"
+17/02/2025,Malekha Khatun,65,Female,B+,11.5,6.7,0.76,48,Negative,9500,"Anemia, Inflammation"
+19/02/2025,Lacky Khatun,30,Female,,9.5,7.6,0.98,48,Negative,9500,"Anemia, Inflammation"
+19/02/2025,Hashi,17,Female,O+,9.6,5.4,0.76,35,Negative,9800,"Anemia, Inflammation"
+19/02/2025,Aleya Khatun,55,Female,B+,10.2,5.9,0.86,65,Negative,11700,"Anemia, Inflammation, Leukocytosis"
+20/02/2025,shila Khatun,19,Female,AB+,9.6,5.6,0.89,62,Negative,9500,"Anemia, Inflammation"
+20/02/2025,Beli Khatun,30,Female,B+,9.2,6.4,0.72,47,Negative,10500,"Anemia, Inflammation"
+20/02/2025,Ruma Khatun,30,Female,,9.5,5.6,0.87,57,Negative,10400,"Anemia, Inflammation"
+20/02/2025,Bilkis,30,Female,B+,9.2,5.6,0.86,49,Negative,10000,"Anemia, Inflammation"
+21/02/2025,Shathi Akhter,20,Female,A+,9.5,5.7,0.94,54,Negative,9400,"Anemia, Inflammation"
+23/02/2025,Toriqul Islam,17,Male,O+,10.2,5.3,0.56,52,Negative,10200,"Anemia, Kidney Problem, Inflammation"
+23/02/2025,Lamima,16,Female,B+,10.8,6.2,0.76,38,Negative,10800,"Anemia, Inflammation"
+23/02/2025,Rubel Hossain,30,Male,O-,11.5,6.5,0.89,42,Negative,12800,"Anemia, Inflammation, Leukocytosis"
+23/02/2025,Jahangir,49,Male,AB+,11.6,6.9,0.82,28,Negative,9200,"Anemia, Inflammation"
+25/02/2025,Hafija Khatun,20,Female,O+,11.2,6.3,0.77,22,Negative,9800,"Anemia, Inflammation"
+25/02/2025,Shima Khatun,28,Female,B+,10.5,5.8,0.82,35,Negative,10200,"Anemia, Inflammation"
+25/02/2025,Forida Khatun,20,Female,A+,10.8,5.8,1.09,22,Negative,10000,"Anemia, Inflammation"
+25/02/2025,Afsana,20,Female,B+,9.8,5.5,0.62,55,Negative,9500,"Anemia, Inflammation"
+25/02/2025,Sumaiya Khatun,18,Female,B+,10,5.4,0.78,42,Negative,10500,"Anemia, Inflammation"
+25/02/2025,Risha Khatun,38,Female,O+,9.7,9.4,0.77,47,Negative,9200,"Anemia, Prediabetes, Inflammation"
+25/02/2025,Sumaiya Khatun,25,Female,A+,10.1,6.3,0.59,57,Negative,9800,"Anemia, Kidney Problem, Inflammation"
+25/02/2025,Nazrul Islam,36,Male,O+,15.7,5.9,0.97,8.7,Negative,10200,Normal
+27/02/2025,Zakirul Islam,21,Male,A+,10.8,7.3,0.75,68,Negative,9400,"Anemia, Inflammation"
+27/02/2025,Rima Khatun,32,Female,B+,10.3,6.2,0.64,8,Negative,10500,Anemia
+27/02/2025,Habiba Khatun,18,Female,A+,10.5,4.9,0.62,24,Negative,10200,"Anemia, Inflammation"
+27/02/2025,Papia Khatun,50,Female,O+,11.5,7.9,0.72,25,Negative,9800,"Anemia, Prediabetes, Inflammation"
+27/02/2025,Zim khatun,22,Female,B+,9.5,7.2,0.65,42,Negative,10500,"Anemia, Inflammation"
+27/02/2025,Mahabuba,50,Female,,11,6.7,0.78,28,Negative,10200,"Anemia, Inflammation"
+27/02/2025,Maleka Khatun,75,Female,A+,11,7.2,0.94,65,Negative,10800,"Anemia, Inflammation"
+27/02/2025,Najma Khatun,50,Female,B+,9.5,6.9,0.84,13,Negative,10200,Anemia
+27/02/2025,Sukur Ali,65,Male,B+,11,7.5,0.63,9.9,Negative,10300,"Anemia, Kidney Problem"
+01/03/2025,Rasheda,40,Female,O+,11.4,6.5,0.68,42,Negative,10200,"Anemia, Inflammation"
+01/03/2025,Sohel,25,Male,A+,11.8,10.2,0.95,30,Negative,9500,"Anemia, Prediabetes, Inflammation"
+01/03/2025,Abul Kashem,50,Male,,11.8,10.1,0.92,32,Negative,9500,"Anemia, Prediabetes, Inflammation"
+02/03/2025,Lily Khatun,40,Female,O+,10.2,4.8,1.01,52,Negative,8500,"Anemia, Inflammation"
+02/03/2025,Jamal Hossian,55,Male,A+,11.5,6.3,0.76,25,Negative,9800,"Anemia, Inflammation"
+02/03/2025,Abu Bakkar,70,Male,,11.5,7.1,0.89,28,Negative,9500,"Anemia, Inflammation"
+02/03/2025,Mijanur Rahaman,12,Male,B+,10.2,5.5,0.81,29,Negative,11800,"Anemia, Inflammation, Leukocytosis"
+02/03/2025,Mim Akhter,21,Female,,10,7.2,0.76,37,Negative,9500,"Anemia, Inflammation"
+03/03/2025,Mnjuara Khatun,34,Female,A+,8.9,6.5,0.79,95,Negative,9200,"Anemia, Inflammation"
+03/03/2025,Abdul Mannan,72,Male,O+,11.5,8.9,0.83,56,Negative,10500,"Anemia, Prediabetes, Inflammation"
+04/03/2025,Faruk,30,Male,A+,10.5,6.6,1.19,5.9,Negative,10500,Anemia
+05/03/2025,Urmi Khatun,18,Female,B+,9.4,6.5,0.86,55,Negative,10200,"Anemia, Inflammation"
+05/03/2025,Yakub ali,43,Male,A+,10.2,5.3,0.75,52,Negative,9800,"Anemia, Inflammation"
+06/03/2025,Parul Khatun,21,Female,AB+,11.2,8.6,0.85,55,Negative,11200,"Anemia, Prediabetes, Inflammation, Leukocytosis"
+06/03/2025,MST Farhana,45,Female,B+,10.2,5.6,0.98,56,Negative,10200,"Anemia, Inflammation"
+06/03/2025,Chreya Akter,38,Female,B+,11.5,7.1,0.84,25,Negative,10500,"Anemia, Inflammation"
+06/03/2025,Sofia Khatun,38,Female,AB+,9.4,6.8,0.75,36,Negative,9800,"Anemia, Inflammation"
+06/03/2025,Sojib,25,Male,B+,10.2,6.4,0.76,52,Negative,10500,"Anemia, Inflammation"
+06/03/2025,Kasem Ali,48,Male,O+,9.1,5.6,0.78,90,Negative,8500,"Anemia, Inflammation"
+07/03/2025,Mst MIna Khatun,30,Female,A+,10.1,6.8,0.69,59,Negative,9200,"Anemia, Inflammation"
+07/03/2025,Golapi Khatun,30,Female,B+,10.6,8.1,0.65,35,Negative,10000,"Anemia, Prediabetes, Inflammation"
+07/03/2025,Sadia Khatun,9,Female,O+,11.2,7.5,0.8,10.8,Negative,9500,Anemia
+07/03/2025,Shohag,20,Male,O+,16.4,6.5,1.14,3.9,Negative,10500,Normal
+08/08/2025,Sumona,28,Female,,8.8,5.8,1.04,80,Negative,9200,"Anemia, Inflammation"
+08/08/2025,Resaul Hossain,59,Male,AB+,11.1,6.9,0.85,10.2,Negative,9800,Anemia
+08/08/2025,Tangila Khatun,35,Female,O+,10.4,6.9,1.01,11.5,Negative,10200,Anemia
+08/08/2025,Sumona Akter,19,Female,,12.8,7.7,1.08,11.6,Negative,9400,Normal
+09/08/2025,Sumon,19,Male,B+,16.5,4.6,0.87,10.8,Negative,10500,Normal
+09/08/2025,Mst. Runa Khatun,21,Female,A+,11.8,5.8,0.85,42,Negative,10200,"Anemia, Inflammation"
+10/05/2025,Nazmul,18,Male,O-,11.7,7.1,0.81,29,Negative,9800,"Anemia, Inflammation"
+10/05/2025,Mohabbot (Wife),52,Female,O+,12.2,7.2,0.8,35,Negative,10500,Inflammation
+11/03/2025,Nurun Nahar,45,Female,B+,11.3,12.9,0.86,58,Negative,8800,"Anemia, Diabetes, Inflammation"
+12/03/2025,Bithi,22,Female,AB+,10.7,4.9,0.9,40,Negative,10500,"Anemia, Inflammation"
+12/03/2025,Santi,62,Female,A+,14.6,9.6,1.07,15.9,Negative,9800,Prediabetes
+13/03/2025,Sri Shuvo,24,Female,,13.7,5.3,1.07,19.5,Negative,10700,Normal
+13/03/2025,Salma,25,Female,A+,9.9,5.7,0.62,48,Negative,5200,"Anemia, Inflammation"
+14/03/2025,Jannatul Toma,20,Female,,9.8,4.8,0.7,27,Negative,10500,"Anemia, Inflammation"
+14/03/2025,Maya Khatun,28,Female,B+,9.2,6.8,0.84,45,Negative,10500,"Anemia, Inflammation"
+14/03/2025,Shahidul Goni,50,Male,B+,12.7,9.8,0.92,44,Negative,9500,"Anemia, Prediabetes, Inflammation"
+14/03/2025,Monowara Khatun,40,Female,,8.9,8.2,0.98,9.5,Negative,10500,"Anemia, Prediabetes"
+14/03/2025,Naymun Rahman,21,Male,,11.5,6.7,0.76,4.1,Negative,9700,Anemia
+14/03/2025,Manik,18,Male,A+,10.5,7.6,0.86,11,Negative,10500,Anemia
+14/03/2025,Masum,19,Male,A+,9.4,5.4,0.89,4.3,Negative,9500,Anemia
+14/03/2025,Sumeya Khatun,21,Female,B+,10.2,5.9,0.72,7.2,Negative,8500,Anemia
+14/03/2025,Rashed,25,Male,A+,11.2,5.6,0.87,6.1,Negative,10200,Anemia
+15/03/2025,Zayeda,60,Female,B+,10.2,6.4,0.86,17.1,Negative,9700,Anemia
+16/03/2025,Manik,18,Male,A+,11.5,5.6,0.94,10.2,Negative,10500,Anemia
+16/03/2025,Muntasir,38,Male,B+,15.3,5.6,0.56,2.3,Negative,9500,Kidney Problem
+16/03/2025,Roken Khatun,48,Female,B+,10.5,5.7,0.76,8,Negative,8400,Anemia
+16/03/2025,Monowara,40,Female,O+,12.8,5.3,0.89,12.2,Negative,10200,Normal
+16/03/2025,Momina,22,Female,O+,13.2,6.2,0.82,17.9,Negative,9700,Normal
+16/03/2025,Sabina Khatun,40,Female,AB+,11.4,6.5,0.77,45,Negative,10500,"Anemia, Inflammation"
+17/03/2025,Jesmin,35,Female,A+,13.9,6.9,0.82,16.1,Negative,9500,Normal
+17/03/2025,Mst. Lucky Khatun,25,Female,,8,6.3,0.71,13.3,Negative,7300,Anemia
+17/03/2025,Lucky Khatun,25,Female,O+,8.9,5.8,1.03,5.4,Negative,10200,Anemia
+17/03/2025,Asiyan Palmon,19,Male,O+,11.5,5.5,0.84,4.9,Negative,10500,Anemia
+17/03/2025,Sumona,19,Female,O-,10.5,6.8,0.98,1.8,Negative,9800,Anemia
+17/03/2025,Sumon,19,Male,A+,9.4,5.5,0.99,7.6,Negative,10700,Anemia
+18/03/2025,Ruma Akter,19,Female,A+,10.2,5.5,0.87,18.4,Negative,4500,Anemia
+18/03/2025,Shahida Begum,45,Female,A+,11.2,4.8,1.1,15.2,Negative,10500,Anemia
+18/03/2025,Proma,30,Female,AB+,10.2,7.4,0.81,19.4,Negative,10500,Anemia
+18/03/2025,Rubina,32,Female,B+,11.5,7.6,0.64,6.8,Negative,9500,Anemia
+19/03/2025,Rezia Khatun,35,Female,,11.8,5.4,0.9,69,Negative,10500,"Anemia, Inflammation"
+22/03/2025,Moksed,40,Male,B+,16.4,5.1,0.8,8.8,Positive,9800,Hepatitis B
+22/03/2025,Md. Rasel,23,Male,B+,16.4,6.5,1.26,2,Negative,10800,Normal
+22/03/2025,Amina Khatun,20,Female,AB+,9.9,5.7,0.91,27,Negative,5500,"Anemia, Inflammation"
+22/03/2025,Anjuara,42,Female,O-,10.6,15.7,0.78,49,Negative,8800,"Anemia, Diabetes, Inflammation"
+22/03/2025,Rupa Khatun,22,Female,A+,9.4,5,0.76,55,Negative,5000,"Anemia, Inflammation"
+22/03/2025,Subia,38,Female,A+,9.5,6.5,0.95,7.8,Negative,11000,Anemia
+22/03/2025,Abdullah,23,Male,A+,11.7,5,0.68,39,Negative,7700,"Anemia, Kidney Problem, Inflammation"
+23/03/2025,Nila,25,Female,AB+,10.2,5.4,0.63,59,Negative,9500,"Anemia, Inflammation"
+23/03/2025,Monowara,40,Female,O+,11.5,7,1.03,18.4,Negative,10500,Anemia
+23/03/2025,Tania Khatun,22,Female,A+,11.4,5.8,0.85,23,Negative,10800,"Anemia, Inflammation"
+23/03/2025,Korim,68,Male,O+,11.5,16.8,1.28,65,Negative,9800,"Anemia, Diabetes, Inflammation"
+25/03/2025,Shima Khatun,23,Female,O+,11.4,7.8,0.78,72,Negative,10500,"Anemia, Prediabetes, Inflammation"
+25/03/2025,Summa Khatun,22,Female,B+,9.8,5.9,0.72,68,Negative,9500,"Anemia, Inflammation"
+25/03/2025,Shakila Khatun,42,Female,O+,11,6.9,0.75,28,Negative,10200,"Anemia, Inflammation"
+25/03/2025,Rana,28,Male,O+,11.8,6.4,1.12,69,Negative,10500,"Anemia, Inflammation"
+26/03/2025,Amina Khatun,66,Female,,11.4,13.8,0.61,2,Negative,9800,"Anemia, Diabetes"
+26/03/2025,Monira,19,Female,B+,9.7,7.3,0.61,12,Negative,10500,Anemia
+26/03/2025,Aysha,12,Female,A+,9.5,5.8,0.82,13.8,Negative,10500,Anemia
+27/03/2025,Mostaki,18,Male,,10.5,5.7,1.03,25,Negative,9200,"Anemia, Inflammation"
+27/03/2025,Sajeda Khatun,55,Female,AB+,11.5,5.8,0.98,6.4,Negative,9800,Anemia
+28/03/2025,Samima Khatun,18,Female,O+,11.5,6.7,0.82,12.2,Negative,9500,Anemia
+28/03/2025,Moksed,60,Male,A+,10.5,6,0.72,1.5,Negative,10200,Anemia
+28/03/2025,Reba Khatun,27,Female,O+,7.5,7,0.78,85,Negative,9200,"Anemia, Inflammation"
+01/04/2025,Nazma,30,Female,A+,9.8,6,0.75,3.4,Negative,10200,Anemia
+01/04/2025,Raisa,4,Female,O+,10.1,5.9,0.98,5.1,Negative,9400,Anemia
+01/04/2025,Ritu Jannatul,25,Female,A+,10,6.3,0.7,2.6,Negative,10200,Anemia
+02/04/2025,Rifat,3,Male,O+,11.5,4.1,1.02,18,Negative,9500,"Anemia, Inflammation"
+02/04/2025,Akhi Khatun,21,Female,O+,11,6.8,0.66,55,Negative,9800,"Anemia, Inflammation"
+02/04/2025,Rohima,45,Female,B+,10.5,6.9,0.87,45,Negative,10200,"Anemia, Inflammation"
+02/04/2025,Ratna Khatun,30,Female,AB+,10.5,6.2,0.92,14.8,Negative,8600,Anemia
+04/04/2025,Malek,38,Male,O+,11.7,7.1,1.28,25,Negative,9500,"Anemia, Inflammation"
+04/04/2025,Labli Khatun,28,Female,O+,9.7,6.6,0.71,75,Negative,10500,"Anemia, Inflammation"
+04/04/2025,Rabeya Khatun,35,Female,B+,10.8,4.1,0.8,45,Negative,10500,"Anemia, Inflammation"
+04/04/2025,Sathi,30,Female,O+,9.4,5.5,0.74,35,Negative,9800,"Anemia, Inflammation"
+04/04/2025,Salma Khatun,40,Female,O+,14.2,8.4,0.73,4.5,Negative,9800,Prediabetes
+04/04/2025,Hamida Khatun,27,Female,,9.6,7.1,0.95,57,Negative,8800,"Anemia, Inflammation"
+05/04/2025,Rima Khatun,13,Female,B+,10.1,5.5,0.69,35,Negative,6400,"Anemia, Inflammation"
+05/04/2025,Uromi,18,Female,A+,9.8,5.6,0.72,2.8,Negative,4800,Anemia
+05/04/2025,Husneara,33,Female,O-,10.5,5.8,0.64,35,Negative,4500,"Anemia, Inflammation"
+05/04/2025,Moynara Khatun,50,Female,AB+,10.9,7.5,0.92,27,Negative,9800,"Anemia, Inflammation"
+06/04/2025,Rashida Khatun,25,Female,O+,9.8,5.9,0.65,59,Negative,9700,"Anemia, Inflammation"
+06/04/2025,Shaheb Ali,30,Male,A+,15.6,5.8,0.96,11.2,Negative,6900,Normal
+06/04/2025,Tara Khatun,28,Female,O+,9.7,6.1,0.68,62,Negative,10200,"Anemia, Inflammation"
+06/04/2025,Nahid,21,Male,A+,11.9,4.4,0.91,18,Negative,10800,"Anemia, Inflammation"
+06/04/2025,Gulnahan,32,Female,O+,12.3,5.8,0.65,6.9,Negative,7700,Normal
+06/04/2025,Sahil,25,Male,A+,12.5,6.6,0.98,2.4,Negative,5000,Anemia
+06/04/2025,Toha,13,Male,O+,9.6,7,0.91,7.5,Negative,6900,Anemia
+07/04/2025,Abu Polan,75,Male,O+,11.5,6.5,0.94,9.6,Negative,5200,Anemia
+07/04/2025,Sopon Sarker,28,Male,B+,12.2,6.5,0.86,18,Negative,10500,"Anemia, Inflammation"
+07/04/2025,Sathi Shilpi,30,Female,AB+,9.2,5.5,0.74,58,Negative,8800,"Anemia, Inflammation"
+07/04/2025,Atiqul Rahman,18,Male,O+,11.8,4.9,0.71,38,Negative,9800,"Anemia, Inflammation"
+07/04/2025,Salma,18,Female,O+,10,5.9,0.78,48,Negative,10200,"Anemia, Inflammation"
+08/04/2025,Bulbul Mina,36,Female,O+,9.8,7.4,0.85,60,Negative,10500,"Anemia, Inflammation"
+08/04/2025,Shamim Alom,42,Male,B+,11.9,5.3,1.02,34,Negative,8800,"Anemia, Inflammation"
+09/04/2025,Shoroboni Akter,32,Female,AB+,11.7,6.9,0.94,12.7,Negative,8800,Anemia
+09/04/2025,Samsul Alom,72,Male,O+,11.5,6.3,0.64,60,Negative,9200,"Anemia, Kidney Problem, Inflammation"
+09/04/2025,Md. Zakir Uddin,59,Male,O+,12,4,1.05,28,Negative,7500,"Anemia, Inflammation"
+09/04/2025,Abdul Karim,28,Male,B+,8.6,6.9,0.65,10.5,Negative,10200,"Anemia, Kidney Problem"
+11/04/2025,Nurjahan Begum,43,Female,B+,9.3,6.5,0.92,9.7,Negative,10500,Anemia
+11/04/2025,Jannatul Ferdous,22,Female,A+,11,6.5,1.01,12.9,Negative,9800,Anemia
+13/04/2025,Sabina Khatun,35,Female,,11.5,5.5,1.05,60,Negative,10700,"Anemia, Inflammation"
+13/04/2025,Molina Akter,27,Female,AB+,9,4.2,0.65,1.3,Negative,9800,Anemia
+21/04/2025,Mina Khatun,21,Female,O+,8.7,5.9,0.91,7.4,Negative,10500,Anemia
+21/04/2025,Shahana Akter,27,Female,A+,9.8,5.1,1.02,1.4,Negative,10500,Anemia
+14/04/2025,Aklima Begum,55,Female,O+,10.8,5.3,0.73,10.4,Negative,9500,Anemia
+14/04/2025,Hasina Begum,25,Female,A+,11.3,6.9,0.86,68,Negative,10500,"Anemia, Inflammation"
+14/04/2025,Sathi Rahman,35,Female,O+,11.2,6.5,0.74,7.6,Negative,9500,Anemia
+14/04/2025,Mahfuza Akter,29,Female,A+,9.9,7.5,0.62,48,Negative,10500,"Anemia, Inflammation"
+15/04/2025,Rahima,28,Female,B+,9.8,5.5,1.2,45,Negative,9500,"Anemia, Kidney Problem, Inflammation"
+16/04/2025,Salma,33,Female,O+,11,7.6,0.9,35,Negative,10500,"Anemia, Inflammation"
+16/04/2024,Rahima Khatun,28,Female,B+,9.9,5.8,0.7,11.4,Negative,10500,Anemia
+16/04/2024,Anesa,45,Female,A+,10,5.5,0.88,11.9,Negative,9500,Anemia
+16/04/2024,Bobita,35,Female,O+,11,5.9,0.97,51,Negative,10500,"Anemia, Inflammation"
+15/04/2025,Eti Khatun,22,Female,O+,9.8,5.8,0.73,69,Negative,8600,"Anemia, Inflammation"
+15/04/2025,Mini Khatun,35,Female,,9.7,10.5,0.88,48,Negative,6000,"Anemia, Prediabetes, Inflammation"
+17/04/2025,Manik,42,Male,O+,16.1,6.7,0.9,14,Negative,8700,Normal
+17/04/2025,Atiqun Rahman,40,Male,O+,14,6.8,0.86,10.5,Negative,9500,Normal
+17/04/2025,Mozharul Islam,73,Male,,11.4,7.8,2.75,69,Negative,8500,"Anemia, Prediabetes, Kidney Problem, Inflammation"
+17/04/2025,Rabi,20,Male,O+,12.5,4.8,0.93,25,Negative,6600,"Anemia, Inflammation"
+18/04/2025,Nurjahan,38,Female,,11.5,5.8,0.79,6.7,Negative,10200,Anemia
+18/04/2025,Abdur Razzak,25,Male,B+,11,4.1,1.28,12.9,Negative,10500,Anemia
+18/04/2025,Abdul Aziz,68,Male,,10.5,7.5,1.11,7.8,Negative,9800,Anemia
+18/04/2025,Shahjil Islam,31,Male,A+,10.5,6.3,0.97,5.1,Negative,10700,Anemia
+18/04/2025,Laily Khatun,32,Female,,11.7,9.8,0.98,16,Negative,7400,"Anemia, Prediabetes"
+18/04/2025,Fojila Khatun,35,Female,O+,9.7,4.3,1.07,19.5,Negative,10500,Anemia
+18/04/2025,Ripol,20,Male,B+,15.2,5.6,1.23,5.9,Negative,10500,Normal
+19/04/2025,Zohirul Islam,48,Male,AB+,16.9,6.5,1.2,13.1,Negative,9500,Normal
+19/04/2025,Rojina Begum,50,Female,,12.3,7.9,0.95,2.4,Negative,10500,Prediabetes
+20/04/2025,Golam Mostofa,75,Male,A+,10.8,9.5,1.19,10.9,Negative,4900,"Anemia, Prediabetes"
+20/04/2025,Runa Khatun,30,Female,B+,10.5,5.8,0.89,100,Negative,6100,"Anemia, Inflammation"
+20/04/2025,Rejaul Karim,52,Male,B+,13.3,14.5,1.29,6.2,Negative,10200,Diabetes
+21/04/2025,Shahida Khatun,27,Female,A+,11,5.5,0.66,27,Positive,10500,"Anemia, Inflammation, Hepatitis B"
+21/04/2025,Fojila Khatun,45,Female,AB+,14.4,7.5,1.09,15.3,Negative,9800,Normal
+21/04/2025,Sujon,43,Male,B+,12.9,6.5,1.12,7.7,Negative,10700,Anemia
+21/04/2025,Delwar Hossain,82,Male,A+,11.5,6.5,1.04,6.9,Negative,10800,Anemia
+21/04/2025,Shimu Khatun,21,Female,O+,13,5.6,0.73,8.7,Negative,10500,Normal
+21/04/2025,Oman Faruk,29,Male,B+,11.2,4.1,0.77,2.6,Negative,10500,Anemia
+21/04/2025,Pianul Islam,25,Male,O+,16,4.8,1.11,4.3,Negative,9500,Normal
+22/04/2025,Papima Khatun,35,Female,B+,13.2,5.7,0.64,11,Negative,10500,Normal
+22/04/2025,Alifa Khatun,23,Female,A+,9.9,5.6,0.86,65,Negative,7100,"Anemia, Inflammation"
+22/04/2025,Mabordi,17,Male,O+,10.7,5.8,0.71,35,Negative,6000,"Anemia, Inflammation"
+22/04/2025,Piana Khatun,18,Female,,9.6,4.1,0.86,17.9,Negative,9900,Anemia
+22/04/2025,Monzil,85,Male,A+,11.5,7.4,1.25,4.5,Negative,8800,Anemia
+22/04/2025,Sahid,45,Male,O-,11,7.6,1.01,9.8,Negative,7400,Anemia
+22/04/2025,Suker Ali,65,Male,B+,10.5,4.8,0.88,14.9,Negative,10200,Anemia
+22/04/2025,Imran Hossain,25,Male,,10.5,5.4,1.14,13.8,Negative,10500,Anemia
+22/04/2025,Fojila Khatun,45,Female,A+,11.7,7.5,1.05,9.7,Negative,9800,Anemia
+22/04/2025,Shipon,27,Male,B+,9.7,5.2,0.8,10.1,Negative,10700,Anemia
+22/04/2025,Hossain Ahmed,14,Male,B+,11.5,5.2,1.05,29,Negative,6800,"Anemia, Inflammation"
+22/04/2025,Rashida Khatun,45,Female,A+,11.2,5.9,0.87,58,Negative,10500,"Anemia, Inflammation"
+23/04/2025,Rebeka Khatun,40,Female,B+,10.3,5.9,0.79,75,Negative,10500,"Anemia, Inflammation"
+23/04/2025,Shabonti,20,Female,AB+,12.8,5.6,0.67,1.6,Negative,9500,Normal
+23/04/2025,Taltek,22,Male,B+,12.5,5,0.95,9.4,Negative,10500,Anemia
+24/04/2025,Nowser Ali,27,Male,B+,7.7,9.2,0.86,75,Negative,8100,"Anemia, Prediabetes, Inflammation"
+24/04/2025,Fosila,45,Female,A+,11.4,7.4,1.01,19,Negative,4700,Anemia
+24/04/2025,Ashikur Rahman,10,Male,,15.5,5.5,1.26,13.1,Negative,6900,Normal
+25/04/2025,Shorifon,20,Male,A+,12.5,4.5,0.95,11.9,Negative,4400,Anemia
+25/04/2025,Abin,20,Male,O+,12.9,7.7,0.79,9.3,Negative,10200,Anemia
+25/04/2025,Anika,11,Female,A+,11.2,9.2,0.8,38,Negative,10500,"Anemia, Prediabetes, Inflammation"
+26/04/2025,Ummi,21,Female,O+,10.7,8.8,1.02,39,Negative,9800,"Anemia, Prediabetes, Inflammation"
+27/04/2025,Shapla Khatun,26,Female,O+,9.7,5.9,0.76,62,Negative,10700,"Anemia, Inflammation"
+28/04/2025,Rima Khatun,26,Female,,12.1,4.4,0.61,2.4,Negative,8000,Normal
+28/04/2025,Atik,25,Male,O+,9.6,7,1.3,15,Negative,10500,Anemia
+28/04/2025,Ela Khatun,22,Female,O+,11.2,10.5,0.89,37,Negative,10500,"Anemia, Prediabetes, Inflammation"
+28/04/2025,Laboni Khatun,55,Female,,10.7,5.7,0.98,35,Negative,9500,"Anemia, Inflammation"
+29/04/2025,Laboni Khatun,55,Female,O+,10.7,5.7,0.79,55,Negative,10500,"Anemia, Inflammation"
+29/04/2025,Abul Kashem,50,Male,,14.8,8.7,0.78,14.4,Negative,9100,Prediabetes
+29/04/2025,Md Rakibul,23,Male,B+,12.5,5.2,0.82,32,Negative,7400,"Anemia, Inflammation"
+29/04/2025,Mim Khatun,25,Female,,11.4,5.4,0.98,40,Negative,4800,"Anemia, Inflammation"
+29/04/2025,Abul Kashem,50,Male,A+,14.4,6.7,0.77,10.4,Negative,6700,Normal
+29/04/2025,Raju Ahmed,28,Male,B+,14.9,7.1,0.88,12.4,Negative,10200,Normal
+29/04/2025,Nuryahan,45,Female,AB+,11.3,6.4,0.76,42,Negative,10500,"Anemia, Inflammation"
+29/04/2025,Anonna,20,Female,,10.8,7.2,0.8,22,Negative,9800,"Anemia, Inflammation"
+30/04/2025,Khadija Khatun,18,Female,AB+,9.8,6.7,0.86,44,Negative,10700,"Anemia, Inflammation"
+30/04/2025,Suthi Khatun,20,Female,O-,9.5,5.8,0.61,59,Negative,8000,"Anemia, Inflammation"
+30/04/2025,Risha,5,Female,A+,10.7,4.7,0.81,15.9,Negative,10500,Anemia
+30/04/2025,Shilpi Khatun,35,Female,B+,11,6.7,0.95,27,Negative,10500,"Anemia, Inflammation"
+30/04/2025,Nargis,80,Female,B+,11.3,6.6,0.84,67,Negative,9500,"Anemia, Inflammation"
+01/05/2025,Zahanara Khatun,21,Female,A+,9.8,7.3,0.86,12.7,Negative,10500,Anemia
+01/05/2025,Rowsonara,52,Female,AB+,10.8,6.5,1,49,Negative,6700,"Anemia, Inflammation"
+02/05/2025,Ayez Uddin,50,Male,B+,11.2,6.7,0.97,102,Positive,10300,"Anemia, Inflammation, Hepatitis B"
+02/05/2025,Zesmin,34,Female,A+,11,6.7,0.9,13.1,Negative,9000,Anemia
+03/05/2025,Jamia Khatun,40,Female,O+,11,5.5,0.82,22,Negative,9800,"Anemia, Inflammation"
+03/05/2025,Setu,23,Female,B+,9.8,7.3,0.77,27,Negative,9500,"Anemia, Inflammation"
+03/05/2025,Babul Ali,27,Male,O+,12.5,5.8,1.01,80,Negative,10200,"Anemia, Inflammation"
+03/05/2025,Shitol,20,Male,B+,16.1,5.4,1.07,13.1,Negative,9800,Normal
+03/05/2025,Rikat,20,Male,A+,9.6,6.9,0.98,12.8,Negative,5800,Anemia
+04/05/2025,Nobin Uddin,66,Male,O+,11.6,10.7,0.85,68,Negative,10500,"Anemia, Prediabetes, Inflammation"
+04/05/2025,Papia Khatun,33,Female,B+,13.4,7.6,0.85,7.2,Negative,10500,Normal
+04/05/2025,Suraya Khatun,20,Female,A+,10.8,5.8,0.92,38,Negative,8800,"Anemia, Inflammation"
+05/05/2025,Gias,35,Male,O-,14,4.2,0.78,2.8,Negative,10500,Normal
+05/05/2025,Bijoy,38,Male,B+,13.6,4.4,1.08,3.5,Negative,7300,Normal
+05/05/2025,Anjuman Ara,62,Female,B+,10.5,10,0.78,67,Negative,9800,"Anemia, Prediabetes, Inflammation"
+05/05/2025,Shahana,55,Female,A+,11.2,6.7,0.81,65,Negative,9500,"Anemia, Inflammation"
+05/05/2025,Rubia Khatun,60,Female,B+,11,7.2,0.86,45,Negative,9500,"Anemia, Inflammation"
+05/05/2025,Kashi,22,Female,B+,14.9,5.6,0.9,5.3,Negative,9500,Normal
+06/05/2025,Majeda Khatun,80,Female,A+,11.2,6.5,1.01,25,Negative,9000,"Anemia, Inflammation"
+06/05/2025,Shahida Khatun,85,Female,B+,11.3,6.6,0.72,58,Negative,11500,"Anemia, Inflammation, Leukocytosis"
+07/05/2025,Rekha,55,Female,AB+,11.4,5.2,0.77,48,Negative,9500,"Anemia, Inflammation"
+07/05/2025,Sanowara Khatun,50,Female,B+,11.5,4,0.87,38,Negative,9500,"Anemia, Inflammation"
+07/05/2025,Tamjida,38,Female,B+,13.6,5.3,1.05,3.4,Negative,10200,Normal
+07/05/2025,Rumon,30,Male,A+,15.8,5.7,0.72,12.2,Negative,10500,Normal
+08/05/2025,Golzen Hossain,45,Male,,12.5,4.2,1.22,25,Negative,9800,"Anemia, Inflammation"
+08/05/2025,Tajeda Khatun,28,Female,A+,13.1,3.9,1.03,2.6,Negative,10700,Normal
+08/05/2025,Rakib,22,Male,O+,11.2,4.6,0.83,6.2,Negative,9500,Anemia
+09/05/2025,Jebiha,5,Female,O+,13.5,6.5,0.91,8,Negative,10500,Normal
+09/05/2025,Shahan,20,Male,O+,9.6,6.6,0.74,3.1,Negative,10500,Anemia
+09/05/2025,Ajeda Khatun,35,Female,B+,10.5,5.6,0.96,18,Negative,9500,Anemia
+09/05/2025,Mst Mim Khatun,22,Female,,9.2,6.7,0.62,17.5,Negative,10500,Anemia
+10/05/2025,Pria,20,Female,A+,8.1,5.8,0.78,76,Negative,5700,"Anemia, Inflammation"
+10/05/2025,Ahodgn Khatun,55,Female,,12.3,14.2,0.97,4.5,Negative,7100,Diabetes
+10/05/2025,Zesmin,20,Female,A+,8.7,5.1,0.71,55,Negative,10200,"Anemia, Inflammation"
+10/05/2025,Ahodgn,55,Female,O+,10.8,4.4,1.05,12.3,Negative,10500,Anemia
+10/05/2025,Shemaly Khat,20,Female,O+,10.5,5.2,0.92,39,Negative,9800,"Anemia, Inflammation"
+10/05/2025,Momota,44,Female,,10.7,5.8,0.86,48,Negative,10700,"Anemia, Inflammation"
+10/05/2025,Zahanara,40,Female,O+,11,6.5,0.89,42,Negative,9500,"Anemia, Inflammation"
+11/05/2025,Noyon Uddin,63,Male,O+,10.6,5,1.02,9.2,Negative,10500,Anemia
+11/05/2025,Koliema,57,Female,,13.7,6.7,0.79,7.4,Negative,10500,Normal
+11/05/2025,Khadija Khatun,45,Female,O+,10.7,6.4,0.89,52,Negative,9500,"Anemia, Inflammation"
+13/05/2025,Abdel Majid,73,Male,,11.5,5.9,0.98,62,Negative,10500,"Anemia, Inflammation"
+13/05/2025,Akhi Akhter,25,Female,B+,9.5,5.8,0.77,41,Negative,9500,"Anemia, Inflammation"
+13/05/2025,Moriom,20,Female,,9.5,5.7,0.76,48,Negative,10200,"Anemia, Inflammation"
+13/05/2025,Sonia,24,Female,A+,12,4.8,0.78,10.3,Negative,10500,Normal
+13/05/2025,Jibon,20,Male,A+,13.7,5,0.8,13.6,Negative,9800,Normal
+14/05/2025,Shopla Khatun,28,Female,O+,9.6,4.1,0.61,39,Negative,10700,"Anemia, Inflammation"
+14/05/2025,Sonia Khan,28,Female,,9.4,5.9,1.1,48,Negative,10800,"Anemia, Inflammation"
+14/05/2025,Akhi Khatun,32,Female,AB+,13.2,5.9,1.08,17.4,Negative,10500,Normal
+15/05/2025,Sakit,25,Male,,11.9,4.9,0.8,55,Negative,10500,"Anemia, Inflammation"
+15/05/2025,Marina,24,Female,A+,9.7,6.9,0.69,16.6,Negative,9500,Anemia
+16/05/2025,Khaimul Islam,25,Male,B+,15.9,5.8,0.77,8.5,Negative,10500,Normal
+16/05/2025,Monira,25,Female,B+,11.5,5.7,1.02,4.9,Negative,9500,Anemia
+16/05/2025,Mansub Vai,38,Male,A+,11,7.6,1.13,3.8,Negative,9500,Anemia
+16/05/2025,Hasna Khatun,35,Female,AB+,10.5,6.7,0.86,14.4,Negative,10200,Anemia
+16/05/2025,Rajib,22,Male,B+,10.5,6.5,0.87,9.1,Negative,10500,Anemia
+16/05/2025,Yanun,8,Male,A+,11.7,7.4,0.89,9.3,Negative,9800,Anemia
+16/05/2025,Akramul,25,Male,O+,9.7,5.2,0.78,1.9,Negative,10700,Anemia
+17/05/2025,Mst Lipy Khatun,35,Female,B+,12.6,10.5,0.94,2.7,Negative,9500,Prediabetes
+17/05/2025,Mst Lipy Khatun,35,Female,O+,12.4,9.6,0.6,3.2,Negative,10500,Prediabetes
+18/05/2025,Osman Goni,70,Male,B+,11.5,11.2,1.14,65,Negative,10500,"Anemia, Diabetes, Inflammation"
+18/05/2025,Rakibul,11,Male,A+,10.5,6.2,1.18,55,Negative,9500,"Anemia, Inflammation"
+18/05/2025,Taslema Khatun,40,Female,O+,9.8,6.3,0.65,55,Negative,10500,"Anemia, Inflammation"
+18/05/2025,Monni Khatun,20,Female,AB+,7.9,5.8,0.86,72,Negative,9500,"Anemia, Inflammation"
+18/05/2025,Monir Khatun,20,Female,A+,9.6,7.1,0.97,8.8,Negative,9500,Anemia
+18/05/2025,Babul,30,Male,O-,16.7,7.7,0.82,6.3,Negative,10200,Normal
+18/05/2025,Monni Khatun,20,Female,B+,9.8,6.7,0.89,17,Negative,9500,Anemia
+18/05/2025,Shakil,30,Male,B+,13.6,6.9,0.82,3.3,Negative,9500,Normal
+19/05/2025,Maksuda Khatun,25,Female,A+,10.4,6.7,0.88,49,Negative,10200,"Anemia, Inflammation"
+19/05/2025,Lucky Khatun,18,Female,B+,10,4.6,0.72,13,Negative,9500,Anemia
+19/05/2025,Yasmin,18,Female,B+,14.7,5.1,0.89,14,Negative,9500,Normal
+19/05/2025,Asa Asha,10,Female,A+,11.8,5.6,0.96,27,Negative,10200,"Anemia, Inflammation"
+20/05/2025,Bonok Aham,20,Male,B+,9.4,6.5,0.98,62,Negative,9500,"Anemia, Inflammation"
+20/05/2025,Rokeya Khatun,60,Female,AB+,12.9,6.7,0.85,5.4,Negative,9500,Normal
+20/05/2025,Anesa Khatun,20,Female,B+,10,7.3,0.79,95,Negative,10200,"Anemia, Inflammation"
+21/05/2025,Shahana,32,Female,O+,11.5,6.2,0.63,35,Negative,10500,"Anemia, Inflammation"
+22/05/2025,Anowara Bindu,34,Female,,9.8,6,0.85,25,Negative,9500,"Anemia, Inflammation"
+22/05/2025,Zahanna,55,Female,A+,8.5,5.8,0.87,9.2,Negative,10500,Anemia
+22/05/2025,Momtaz Shahan,14,Male,B+,11.7,10.5,0.9,14,Negative,9700,"Anemia, Prediabetes"
+22/05/2025,Rashed Reza,30,Male,,14.3,5.8,0.78,12.1,Negative,10500,Normal
+22/05/2025,Munni Khatun,16,Female,B+,10.6,6.3,0.88,11.1,Negative,9500,Anemia
+22/05/2025,Nijra Khatun,7,Female,,13.7,7.7,0.98,14.4,Negative,7300,Normal
+22/05/2025,Abdul Alim,30,Male,O-,12.5,4.4,0.82,11,Negative,10200,Anemia
+25/05/2025,Babu,57,Male,A+,16.5,5.2,0.87,12.5,Negative,9500,Normal
+25/05/2025,Panu,55,Male,B+,13.4,7.1,0.78,6.6,Negative,9400,Normal
+25/05/2025,Jismin,22,Female,B+,9.4,8.8,0.98,85,Negative,9100,"Anemia, Prediabetes, Inflammation"
+25/05/2025,Ismotara,40,Female,B+,10.8,5.8,0.67,28,Negative,9500,"Anemia, Inflammation"
+25/05/2025,Matula,35,Female,O+,9.2,9.5,0.71,68,Negative,10500,"Anemia, Prediabetes, Inflammation"
+25/05/2025,Morjina,45,Female,,10.9,15.1,0.99,110,Negative,10800,"Anemia, Diabetes, Inflammation"
+25/05/2025,Ruhin,3,Male,B+,13,6.2,1.04,11,Negative,8600,Normal
+25/05/2025,Shethi Khatun,30,Female,,8.5,4.6,1.05,12.1,Negative,9500,Anemia
+25/05/2025,Sathi,30,Female,,13.3,5.8,0.74,12.7,Negative,9800,Normal
+25/05/2025,Khalimul Islam,29,Male,A+,11.2,7.4,0.78,2.4,Negative,9500,Anemia
+25/05/2025,Samsun Nahan,75,Female,,12.1,7.2,0.67,18.7,Negative,11500,Leukocytosis
+25/05/2025,Rowshona,55,Female,B+,8.2,6,0.95,18.5,Negative,10500,Anemia
+25/05/2025,Mim,22,Female,AB+,14.1,4.6,0.68,11.9,Negative,6800,Normal
+26/05/2025,Shimla Khatun,20,Female,,10.6,6.5,0.81,48,Negative,9500,"Anemia, Inflammation"
+26/05/2025,Rashida Khatun,45,Female,A+,14.2,7.5,1.06,9.6,Negative,5700,Normal
+26/05/2025,Shuvo,20,Male,O+,13.7,4.8,0.8,3.6,Negative,10500,Normal
+27/05/2025,Khadija Khatun,23,Female,,11.4,10.2,1.06,85,Negative,10500,"Anemia, Prediabetes, Inflammation"
+27/05/2025,Mst. Min Khatun,25,Female,B+,11.2,12.8,0.76,39,Negative,10500,"Anemia, Diabetes, Inflammation"
+28/05/2025,Mst. Sathi Khatun,18,Female,,9.2,9.5,0.9,65,Negative,9800,"Anemia, Prediabetes, Inflammation"
+28/05/2025,Hasni Khatun,35,Female,A+,10.4,6.8,0.86,58,Negative,10500,"Anemia, Inflammation"
+28/05/2025,Limon,14,Male,,11.5,4.1,0.9,12.2,Negative,10300,Anemia
+28/05/2025,Lima Khatun,18,Female,O+,11,6.2,0.66,8.9,Negative,9800,Anemia
+28/05/2025,Oyshe Biswas,13,Female,A+,10.5,7.2,1.06,9.8,Negative,10800,Anemia
+28/05/2025,Sinthia Rahman,14,Female,B+,10.5,6.5,0.97,9.6,Negative,9500,Anemia
+28/05/2025,Brishti Khatun,13,Female,B+,11.7,4.8,0.83,3.7,Negative,10200,Anemia
+28/05/2025,Humayra Khatun,13,Female,B+,9.7,6.1,0.68,1.6,Negative,9500,Anemia
+28/05/2025,Rita,35,Female,,10.9,14.2,0.78,12,Negative,5100,"Anemia, Diabetes"
+28/05/2025,Sim,13,Male,A+,13.9,4.7,1.01,14.7,Negative,9500,Normal
+28/05/2025,Kanon Kosta,50,Male,A+,11.2,5.8,0.89,85,Negative,10500,"Anemia, Inflammation"
+29/05/2025,Md. Sami Hossain,12,Male,O+,13.6,5.5,0.75,15,Negative,4600,Normal
+29/05/2025,Mehedi Hasan,12,Male,B+,14.2,5.1,0.94,7,Negative,10800,Normal
+29/05/2025,Jannita,12,Female,AB+,12.5,6.9,0.77,9.9,Negative,8500,Normal
+29/05/2025,Runa Khatun,25,Female,B+,9.4,9.5,0.89,49,Negative,10200,"Anemia, Prediabetes, Inflammation"
+30/05/2025,Morina Khatun,25,Female,O+,13.9,5.3,1.02,12.2,Negative,10500,Normal
+31/05/2025,Shapla Khatun,24,Female,,10.8,5.3,0.99,29,Negative,5400,"Anemia, Inflammation"
+31/05/2025,Monir,18,Male,A+,10,5.9,0.96,6.6,Negative,10500,Anemia
+31/05/2025,Parvin,25,Female,,10.5,4.5,0.69,45,Negative,10500,"Anemia, Inflammation"
+31/05/2025,Lucky Khatun,35,Female,,9,6.8,0.74,18.1,Negative,9500,Anemia
+01/06/2025,Jaria Bibi,30,Female,A+,10.2,5.8,0.89,32,Negative,10500,"Anemia, Inflammation"
+01/06/2025,Anjad Hossain,61,Male,O+,11.5,14.2,1.02,44,Negative,5900,"Anemia, Diabetes, Inflammation"
+01/06/2025,Nazmun Nahar,55,Female,B+,11.5,4,0.68,14.6,Negative,6000,Anemia
+01/06/2025,Rashidul Islam,38,Male,B+,11,4,0.83,4.2,Negative,10200,Anemia
+01/06/2025,Enid Vai,35,Male,,10.5,7.4,0.71,2.5,Negative,10500,Anemia
+02/06/2025,Abdun Rahman,18,Male,O+,10.5,6.1,1.23,8.8,Negative,9800,Anemia
+02/06/2025,Marufa Khatun,20,Female,,11.7,5.5,1,35,Negative,10700,"Anemia, Inflammation"
+02/06/2025,Nusrat Nahar,35,Female,O+,9.7,5.8,0.79,58,Negative,9400,"Anemia, Inflammation"
+02/06/2025,Sufia Khatun,46,Female,,10.5,7,1.08,18.9,Negative,10500,Anemia
+02/06/2025,Jamnatul Ferdous,21,Female,AB+,10,5.6,0.67,51,Negative,10500,"Anemia, Inflammation"
+03/06/2025,Chisty,22,Female,,11.4,10.5,0.75,21,Negative,9500,"Anemia, Prediabetes, Inflammation"
+03/06/2025,Laboni Khatun,38,Female,A+,8.2,11.8,1.05,67,Negative,10500,"Anemia, Diabetes, Inflammation"
+04/06/2025,Chomeli Khatun,38,Female,,10.7,6.3,0.87,15,Negative,4800,Anemia
+04/06/2025,Pumuk,24,Male,B+,11.8,5.8,0.72,25,Negative,8900,"Anemia, Inflammation"
+03/06/2025,Nadim Khatun,40,Female,O+,11,7.2,1.04,65,Negative,10500,"Anemia, Inflammation"
+03/06/2025,Hadoni Jahan Ara,65,Female,O+,10.5,9.1,0.86,65,Negative,8800,"Anemia, Prediabetes, Inflammation"
+05/06/2025,Andona Khatun,17,Female,B+,10,5.5,0.82,35,Negative,9900,"Anemia, Inflammation"
+05/06/2025,Moyuddin,75,Male,AB+,7.5,6.8,1.12,13.7,Negative,10200,Anemia
+06/06/2025,Sapla Khatun,35,Female,A+,13,4.9,0.79,12.2,Negative,10500,Normal
+06/06/2025,Shobuj,24,Male,A+,13.8,4.8,1.2,5.8,Negative,9800,Normal
+06/06/2025,Shapla,26,Female,B+,9.8,6,0.61,35,Negative,10700,"Anemia, Inflammation"
+07/06/2025,Anjina,22,Female,B+,9,7.8,0.75,42,Negative,10700,"Anemia, Prediabetes, Inflammation"
+07/06/2025,Shabil,38,Male,O-,12.8,10.8,0.89,14.3,Negative,10500,"Anemia, Prediabetes"
+07/06/2025,Bijoy,35,Male,B+,16.1,4.3,1.04,38,Negative,10500,Inflammation
+07/06/2025,Sojib,25,Male,,14.9,4.6,0.99,25,Negative,9500,Inflammation
+11/06/2025,Zuthi Khatun,20,Female,A+,9,5.8,0.97,36,Negative,10500,"Anemia, Inflammation"
+11/06/2025,Zahanara Khatun,60,Female,B+,11.4,6.6,0.8,56,Negative,7200,"Anemia, Inflammation"
+11/06/2025,Shopla Khatun,40,Female,B+,11.5,5.8,0.92,9,Negative,11000,Anemia
+11/06/2025,Shihab,30,Male,A+,11,5.9,0.8,59,Negative,4100,"Anemia, Inflammation"
+11/06/2025,Imran Hossain,28,Male,B+,10.5,6.5,1.19,50,Negative,5400,"Anemia, Inflammation"
+11/06/2025,Sonda,65,Female,AB+,10.5,4.3,0.89,26,Negative,10200,"Anemia, Inflammation"
+11/06/2025,Polash,20,Male,B+,11.7,6,1.09,38,Negative,10500,"Anemia, Inflammation"
+12/06/2025,Nasima Khatun,40,Female,B+,9.7,6.6,0.65,33,Negative,9800,"Anemia, Inflammation"
+12/06/2025,Masud Rana,28,Male,A+,9.8,4.4,1.24,28,Negative,10700,"Anemia, Inflammation"
+12/06/2025,Sojib Vai,36,Male,,11.4,6.2,1.06,66,Negative,10800,"Anemia, Inflammation"
+12/06/2025,Sohal,40,Male,A+,9.3,10,1.23,7.9,Negative,10500,"Anemia, Prediabetes"
+12/06/2025,Sathi,21,Female,O+,10.8,7.4,0.86,29,Negative,10500,"Anemia, Inflammation"
+12/06/2025,Abdul Hamid,65,Male,A+,11.8,5.4,1.16,47,Negative,9500,"Anemia, Inflammation"
+12/06/2025,Robeya,15,Female,O+,13.3,5.2,1.08,56,Negative,10500,Inflammation
+12/06/2025,Sakib,23,Male,O+,13.7,4.2,1.16,43,Negative,7400,Inflammation
+13/06/2025,Manuba Khatun,20,Female,,9.2,6.5,1.02,29,Negative,8300,"Anemia, Inflammation"
+13/06/2025,Audwi,33,Female,O+,11.3,5.3,0.96,6.6,Negative,5400,Anemia
+13/06/2025,Riyatul Jannath,20,Female,O+,9.8,5.8,0.69,25,Negative,7700,"Anemia, Inflammation"
+13/06/2025,Nelufa,45,Female,,11.4,5.4,0.74,37,Negative,10200,"Anemia, Inflammation"
+13/06/2025,Rayia Sultana,25,Female,O+,9.3,7.5,0.97,25,Negative,10500,"Anemia, Inflammation"
+13/06/2025,Sadia Khatun,18,Female,,10.8,4,0.73,53,Negative,9800,"Anemia, Inflammation"
+14/06/2025,Entaj Ali,80,Male,B+,11.5,6.5,1.2,29,Negative,10700,"Anemia, Inflammation"
+14/06/2025,Poly Khatun,40,Female,O-,11.4,5.8,0.9,39,Negative,9500,"Anemia, Inflammation"
+14/06/2025,Munna Khatun,25,Female,A+,9,5.8,0.78,54,Negative,10500,"Anemia, Inflammation"
+14/06/2025,Monir PA,70,Male,B+,10.2,6.8,1,49,Negative,10500,"Anemia, Inflammation"
+14/06/2025,Saddam Hossain,32,Male,A+,12.8,5.2,0.91,41,Negative,9500,"Anemia, Inflammation"
+14/06/2025,Khokon,25,Male,,10,5.8,1.11,59,Negative,10500,"Anemia, Inflammation"
+14/06/2025,Habiba Khatun,22,Female,AB+,13.3,6.5,0.72,58,Negative,6000,Inflammation
+14/06/2025,Alba Khatun,28,Female,B+,10.2,4.2,0.6,34,Negative,9800,"Anemia, Inflammation"
+14/06/2025,Mst. Asma Khatun,48,Female,A+,12.8,6.1,0.78,2.7,Negative,4000,Normal
+14/06/2025,Rony Khatun,20,Female,B+,12,7.6,1,14.1,Negative,9800,Normal
+15/06/2025,Bondhon,6,Male,B+,9.8,6.5,1.01,59,Negative,9500,"Anemia, Inflammation"
+15/06/2025,Shapla Khatun,42,Female,A+,11.4,4.2,1.08,26,Negative,10200,"Anemia, Inflammation"
+15/06/2025,Rubel,27,Male,AB+,9.3,6.8,1.08,39,Negative,7300,"Anemia, Inflammation"
+15/06/2025,Moksel Ali,42,Male,,10.8,6.7,1.08,28,Negative,10400,"Anemia, Inflammation"
+15/06/2025,Tohin,25,Male,A+,11.5,4.8,0.99,66,Negative,10500,"Anemia, Inflammation"
+15/06/2025,Rejakul Korim,45,Male,O+,11.5,12.8,0.83,32,Negative,10500,"Anemia, Diabetes, Inflammation"
+15/06/2025,Akima Khatun,35,Female,B+,9.4,6.7,1.09,18.9,Negative,8800,Anemia
+16/06/2025,Shohidul Islam,45,Male,O+,8.6,6.6,0.83,1.6,Negative,10500,Anemia
+16/06/2025,Eshad,50,Male,B+,12.9,7.6,0.75,59,Negative,6200,"Anemia, Inflammation"
+16/06/2025,Sathi Khatun,25,Female,A+,11.5,6.1,1.1,11.6,Negative,9800,Anemia
+16/06/2025,Monowara Khatun,50,Female,O+,11.3,6.5,0.94,41,Negative,9500,"Anemia, Inflammation"
+18/06/2025,Mahmuda Khatun,21,Female,,10.6,6.4,1.06,63,Negative,9500,"Anemia, Inflammation"
+18/06/2025,Mina Khatun,18,Female,A+,10.9,5.1,0.62,40,Negative,9500,"Anemia, Inflammation"
+18/06/2025,Sumu Akhal,55,Female,O-,14.1,7.9,0.75,18.6,Negative,9000,Prediabetes
+18/06/2025,Momina Khatun,85,Female,B+,11.4,5.7,1.09,67,Negative,11500,"Anemia, Inflammation, Leukocytosis"
+18/06/2025,Azeda Khatun,55,Female,,11.3,6.4,1,15.2,Negative,9500,Anemia
+18/06/2025,Rombia Khatun,38,Female,A+,12.2,5.6,0.93,10.9,Negative,9500,Normal
+18/06/2025,Abdul Samad,55,Male,B+,11.5,7.1,1.09,33,Negative,10200,"Anemia, Inflammation"
+18/06/2025,Walifa Khatun,22,Female,B+,11.5,5.5,0.78,65,Negative,10500,"Anemia, Inflammation"
+19/06/2025,Najma Khatun,26,Female,A+,9.4,5.7,0.79,44,Negative,9800,"Anemia, Inflammation"
+19/06/2025,Rebeka Khatun,30,Female,B+,8.6,6.7,0.82,54,Positive,10700,"Anemia, Inflammation, Hepatitis B"
+20/06/2025,Anamul,19,Male,AB+,12.9,5.4,0.83,40,Negative,9500,"Anemia, Inflammation"
+20/06/2025,Saleha Khatun,28,Female,B+,10.2,6.1,0.76,52,Negative,10500,"Anemia, Inflammation"
+20/06/2025,Belay Khatun,35,Female,B+,8.3,12.5,0.95,7.5,Negative,10500,"Anemia, Diabetes"
+20/06/2025,Mst. Momni Khatun,20,Female,A+,10.5,5.4,0.87,34,Negative,9500,"Anemia, Inflammation"
+21/06/2025,Hoshina,57,Female,,10.2,5.8,1.2,58,Negative,10500,"Anemia, Kidney Problem, Inflammation"
+20/06/2025,Manuba Khatun,24,Female,A+,9.7,5.1,0.87,49,Negative,10400,"Anemia, Inflammation"
+20/06/2025,Jui Khatun,25,Female,O+,10.7,5.2,0.93,68,Negative,5300,"Anemia, Inflammation"
+21/06/2025,Ayesha Khatun,60,Female,O+,10.9,6.5,0.86,55,Negative,10200,"Anemia, Inflammation"
+21/06/2025,Hamida Khatun,19,Female,O+,8.9,6.8,0.67,54,Negative,10500,"Anemia, Inflammation"
+21/06/2025,Shila,20,Female,,10.6,6.8,0.67,68,Negative,7800,"Anemia, Inflammation"
+21/06/2025,Ezubon Rahman,60,Male,A+,11.5,4,1.22,56,Negative,10500,"Anemia, Inflammation"
+21/06/2025,Rofina Khatun,22,Female,B+,11.8,3.9,0.69,8.3,Negative,10500,Anemia
+22/06/2025,Tania Khatun,25,Female,,12.2,3.9,0.63,36,Negative,9500,Inflammation
+22/06/2025,Rohi,28,Male,A+,13.4,4,0.99,47,Negative,10500,Inflammation
+22/06/2025,Mason Mollek,70,Male,O+,11.5,6.6,0.88,50,Negative,10400,"Anemia, Inflammation"
+22/06/2025,Tajida Khatun,35,Female,O+,14.6,7.6,0.98,8.9,Negative,6500,Normal
+22/06/2025,Monir,28,Male,,16,4.8,0.77,59,Negative,10200,Inflammation
+22/06/2025,Pinki Khatun,31,Female,O+,8.8,5,1.03,70,Negative,10500,"Anemia, Inflammation"
+22/06/2025,Beli,35,Female,O+,11.5,9.1,0.72,1.8,Negative,9800,"Anemia, Prediabetes"
+22/06/2025,Yakub Hossain,65,Male,,11.5,7.7,0.96,52,Negative,10700,"Anemia, Inflammation"
+22/06/2025,Mojibor Rahman,38,Male,O+,9.4,4.8,0.93,2.7,Negative,5900,Anemia
+22/06/2025,Yakub Hossain,65,Male,,8.6,6.9,0.86,9.2,Negative,10500,Anemia
+22/06/2025,Mojibor Rahman,38,Male,B+,12.9,7.2,1.27,67,Negative,10500,"Anemia, Inflammation"
+22/06/2025,Kajoli Khatun,35,Female,,13.8,4.5,1.1,59,Negative,9500,Inflammation
+22/06/2025,Momin,15,Male,A+,11.2,5.8,0.84,32,Negative,10500,"Anemia, Inflammation"
+22/06/2025,Ismail Hosen,55,Male,,16.4,4.8,1.2,59,Negative,8700,Inflammation
+23/06/2025,Amina Khatun,16,Female,B+,10.8,4.8,0.69,5.2,Negative,6000,Anemia
+23/06/2025,Akhi Khatun,30,Female,,10.9,6.9,0.78,53,Negative,10900,"Anemia, Inflammation"
+23/06/2025,Rija Khatun,100,Female,AB+,8.9,5.6,0.91,5.1,Positive,10700,"Anemia, Hepatitis B"
+23/06/2025,Beli Khatun,52,Female,,7.8,17.4,0.9,66,Negative,4000,"Anemia, Diabetes, Inflammation"
+23/06/2025,Emanul Jahan,24,Female,A+,11.8,4.6,0.8,40,Negative,10200,"Anemia, Inflammation"
+24/06/2025,Nondini,11,Female,B+,11.8,5.8,1.1,54,Negative,10500,"Anemia, Inflammation"
+24/06/2025,Khalil,50,Male,B+,11.4,7,0.83,37,Negative,9800,"Anemia, Inflammation"
+24/06/2025,Uthendra Rani,40,Female,A+,11.2,5.9,0.9,66,Negative,10700,"Anemia, Inflammation"
+24/06/2025,Mst. Rima Khatun,30,Female,B+,14.6,4.8,0.83,8.4,Negative,8100,Normal
+24/06/2025,Rasel Rana,35,Male,B+,13.5,7.3,1.27,68,Negative,10500,Inflammation
+25/06/2025,Juthi,21,Female,B+,9.6,4,0.76,36,Negative,10500,"Anemia, Inflammation"
+25/06/2025,Anlon Hossain,16,Male,,12.8,6.7,0.98,66,Negative,9500,"Anemia, Inflammation"
+25/06/2025,Rahima Khatun,50,Female,O+,12.8,4.9,0.6,46,Negative,10500,Inflammation
+25/06/2025,Yasin Sheik,32,Male,O+,12.5,5.8,1.12,40,Negative,10200,"Anemia, Inflammation"
+26/06/2025,Morium,23,Female,,7.3,5.9,1.08,3.1,Negative,4200,Anemia
+26/06/2025,Monir,25,Male,AB+,12.6,4.2,1.21,57,Negative,5400,"Anemia, Inflammation"
+26/06/2025,Sumaya Khatun,21,Female,B+,10.6,7.3,0.86,40,Negative,8600,"Anemia, Inflammation"
+26/06/2025,Salam Mostofa,72,Male,AB+,10.9,7,0.91,60,Negative,10200,"Anemia, Inflammation"
+26/06/2025,Aysha Khatun,20,Female,B+,8.8,6,0.87,29,Negative,10500,"Anemia, Inflammation"
+26/06/2025,Abdul Momin,34,Male,,11.7,5.8,1.14,28,Negative,9800,"Anemia, Inflammation"
+26/06/2025,Munsina Mal,30,Female,,14.6,4.8,0.68,60,Negative,10700,Inflammation
+27/06/2025,Aysha Khatun,25,Female,B+,10.2,6.6,0.78,16.9,Negative,7900,Anemia
+27/06/2025,Chopal Maji,29,Male,,13.4,6.5,1.12,50,Negative,10500,Inflammation
+27/06/2025,Mst. Asma Khatun,39,Female,,14.6,7.6,0.83,56,Negative,10500,Inflammation
+27/06/2025,Papia Khatun,28,Female,A+,9.2,6.5,0.87,16.7,Negative,9500,Anemia
+27/06/2025,Komola,75,Female,,10.2,7.5,1.01,61,Negative,10500,"Anemia, Inflammation"
+27/06/2023,Mehi Akram,20,Female,O-,12.7,7.4,0.6,65,Negative,7000,Inflammation
+27/06/2023,Paja Uddin,28,Male,A+,9.2,6.5,0.87,45,Negative,4700,"Anemia, Inflammation"
+27/06/2023,Komela,75,Female,,10.2,7.5,0.73,64,Negative,7000,"Anemia, Inflammation"
+27/06/2023,Momota,36,Female,A+,12.9,6.2,1.09,13,Negative,5000,Normal
+27/06/2023,Shoby Ahmed,29,Male,A+,11.2,3.9,1.19,63,Negative,10200,"Anemia, Inflammation"
+29/06/2025,Momota,36,Female,A+,12.3,6.8,0.87,19.3,Negative,10500,Normal
+29/06/2025,Rabi,75,Male,B+,14.6,4.6,1.15,46,Negative,9800,Inflammation
+29/06/2025,Alsama,56,Female,,10.3,7.9,0.69,56,Negative,10700,"Anemia, Prediabetes, Inflammation"
+29/06/2025,Rita Akh,85,Female,,9.2,5.7,1.07,40,Negative,5000,"Anemia, Inflammation"
+29/06/2025,Mun Sostem,26,Female,B+,14.1,4.2,0.89,68,Negative,10500,Inflammation
+29/06/2025,Nasima Khatun,32,Female,,10.8,5.8,0.79,29,Negative,10500,"Anemia, Inflammation"
+29/06/2025,Ruhon,47,Male,B+,13.3,7.1,1.29,58,Negative,9500,Inflammation
+29/06/2025,Shohel,22,Male,B+,15.7,5.6,1.09,55,Negative,10500,Inflammation
+29/06/2025,Mst. Mim Khatun,15,Female,,10.9,5.2,0.92,31,Negative,10200,"Anemia, Inflammation"
+30/06/2025,Rima Khatun,32,Female,B+,13.2,4.1,1.01,8.1,Negative,4800,Normal
+30/06/2025,Jamil,24,Male,B+,16.1,6.5,0.97,4.8,Negative,10800,Normal
+30/06/2025,Momota,32,Female,A+,14.8,4.3,1.03,11,Negative,9800,Normal
+30/06/2025,Chad Ali,25,Male,A+,12.5,6.5,1.2,44,Negative,9500,"Anemia, Inflammation"
+30/06/2025,Najmun Nahar,75,Female,B+,9.6,5,1.02,64,Negative,10200,"Anemia, Inflammation"
+30/06/2025,Ajmul,30,Male,B+,16.1,4.8,0.78,42,Negative,5600,Inflammation
+30/06/2025,Zesmin,38,Female,O-,10.7,18.5,0.89,66,Negative,5600,"Anemia, Diabetes, Inflammation"
+30/06/2025,Momota Khatun,50,Female,B+,10.2,6.5,1,55,Negative,10500,"Anemia, Inflammation"
+30/06/2025,Zesmin,35,Female,,13.8,17.4,0.68,31,Negative,10500,"Diabetes, Inflammation"
+30/06/2025,Manik,25,Male,A+,8.5,5.5,0.87,57,Negative,8800,"Anemia, Inflammation"
+01/07/2025,Atiya Khatun,18,Female,B+,8.8,7.5,0.81,13.1,Negative,10500,Anemia
+01/07/2025,Aleya,40,Female,B+,11.8,6.6,0.8,6.2,Negative,10000,Anemia
+01/07/2025,Shohel Rana,30,Male,A+,11.7,5.7,0.89,5.5,Negative,9800,Anemia
+01/07/2025,Hosne Khatun,38,Female,B+,14.2,6.7,0.7,37,Negative,9500,Inflammation
+01/07/2025,Dr Jannatul Ferdous,35,Female,AB+,11,7.2,0.96,69,Negative,9500,"Anemia, Inflammation"
+01/07/2025,Shila Khatun,28,Female,B+,8,5.3,0.88,57,Negative,9500,"Anemia, Inflammation"
+01/07/2025,Shoron,24,Male,B+,12.6,5.7,1.03,54,Negative,9000,"Anemia, Inflammation"
+01/07/2025,Saha Shila Khatun,25,Female,A+,12.5,4.7,0.65,28,Negative,11500,"Inflammation, Leukocytosis"
+01/07/2025,Shohan Mondol,28,Male,,16.1,7.1,1.16,70,Negative,9500,Inflammation
+01/07/2025,Anjuman Ara,65,Female,A+,10.8,6.3,1.02,3.5,Negative,9500,Anemia
+01/07/2025,Sayeda Khatun,85,Female,O+,9.5,6.9,0.76,1.6,Negative,10200,Anemia
+13/07/2025,Hafijul,35,Male,A+,12.3,5.9,1.28,29,Negative,10500,"Anemia, Inflammation"
+13/07/2025,Oloka Rani,45,Female,O+,9.8,15.7,0.87,10.1,Negative,9800,"Anemia, Diabetes"
+13/07/2025,Tania Khatun,25,Female,O+,8.9,7.6,0.9,31,Negative,10700,"Anemia, Inflammation"
+14/07/2025,Shahjalal,23,Male,,16.5,4.8,1.04,28,Negative,9500,Inflammation
+14/07/2025,Aloka Rani,45,Female,O+,5.7,4.8,0.68,60,Negative,10500,"Anemia, Inflammation"
+15/07/2025,Asha Khatun,22,Female,O+,13.7,4.8,0.73,66,Negative,10500,Inflammation
+16/07/2025,Monika,20,Female,,10.5,5.1,0.86,28,Negative,9500,"Anemia, Inflammation"
+17/07/2025,Minarul Islam,23,Male,O+,14.8,3.9,0.74,36,Negative,10500,Inflammation
+18/07/2025,Rabbi,48,Male,,11,5.4,0.82,48,Negative,11000,"Anemia, Inflammation"
+19/07/2025,Roshna Khatun,35,Female,B+,11.3,6.2,0.75,26,Negative,6100,"Anemia, Inflammation"
+02/08/2025,Nijis,22,Male,B+,9,5.6,0.74,70,Negative,10200,"Anemia, Inflammation"
+02/08/2025,Riya Khatun,50,Female,A+,9.8,6.7,1.14,50,Negative,10500,"Anemia, Kidney Problem, Inflammation"
+02/08/2025,Hamida,19,Female,,10.3,6.9,0.62,63,Negative,7300,"Anemia, Inflammation"
+06/08/2025,Shoraji Khatun,50,Female,B+,9.7,6.7,0.67,61,Negative,10700,"Anemia, Inflammation"
+06/08/2025,Anowara,65,Female,,9.8,5.8,0.89,1.3,Negative,9400,Anemia
+06/08/2025,Tshida Khatun,18,Female,AB+,10,6.7,0.81,44,Negative,6700,"Anemia, Inflammation"
+07/08/2025,Sagonika,25,Female,,10.5,6.5,0.65,14.3,Negative,10900,Anemia
+07/08/2025,Monowara Khatun,50,Female,A+,10.5,5.9,0.94,40,Negative,10500,"Anemia, Inflammation"
+07/08/2025,Mst. Akbia Khatun,28,Female,B+,10.2,6.7,0.63,39,Negative,6500,"Anemia, Inflammation"
+09/08/2025,Shamsul Alam,72,Male,B+,11.6,7.5,0.74,68,Negative,7900,"Anemia, Inflammation"
+10/08/2025,Asia Khatun,80,Female,A+,10.5,7.3,0.64,70,Negative,9100,"Anemia, Inflammation"
+12/08/2025,Md. Rakib Uddin,24,Male,AB+,13.3,7,0.91,35,Negative,8700,Inflammation
+23/08/2025,Sinthi Khatun,28,Female,B+,11.5,15.9,0.67,32,Negative,9600,"Anemia, Diabetes, Inflammation"
+14/08/2025,Bilkis,45,Female,A+,10,7.4,0.98,64,Negative,10200,"Anemia, Inflammation"
+14/08/2025,Taslima,30,Female,O+,14.1,7,0.62,58,Negative,10600,Inflammation
+14/08/2025,Jesmin,33,Female,B+,12.3,6.2,0.92,61,Negative,9700,Inflammation
+15/08/2025,Zulia Khatun,20,Female,O+,9,7.3,0.81,39,Negative,5500,"Anemia, Inflammation"
+15/08/2025,Ajeda Khatun,40,Female,B+,11,8.5,1.07,32,Negative,7100,"Anemia, Prediabetes, Inflammation"
+24/08/2025,Rasel,20,Male,A+,15.2,6.6,1.22,65,Negative,6800,Inflammation
+24/08/2025,Douly Khala,22,Female,O+,8.5,5.6,0.87,12.9,Negative,7800,Anemia
+25/08/2025,Ayman,5,Male,,10.8,5.2,1.19,2.1,Negative,9600,Anemia
+25/08/2025,Aysha Khatun,28,Female,A+,8.9,6.7,0.79,18,Negative,10200,Anemia
+25/08/2025,Abu Talha,6,Male,O-,10.8,6,1.19,7.3,Negative,8800,Anemia
+25/08/2025,Mst. Tuli Aktar,27,Female,B+,10.9,5.5,0.92,69,Negative,4800,"Anemia, Inflammation"
+25/08/2025,Amzad Hossain,60,Male,,12,12.5,0.87,11.2,Negative,8300,"Anemia, Diabetes"
+29/08/2025,Monalisa,20,Female,A+,10.6,6.7,0.67,66,Negative,4200,"Anemia, Inflammation"
+29/08/2025,Abed Ali,45,Male,B+,15.6,5.7,1.07,64,Negative,11000,Inflammation
+29/08/2025,Arafat,20,Male,B+,14.9,6.7,1.22,66,Negative,6900,Inflammation
+29/08/2025,Sapla Khatun,24,Female,A+,9.7,5.4,0.74,64,Negative,9400,"Anemia, Inflammation"
+29/08/2025,Rima Khatun,32,Female,B+,14,5.8,0.88,33,Negative,6800,Inflammation
+30/08/2025,Ajad,65,Male,AB+,10.4,5.2,1.03,7.9,Negative,4000,Anemia
+30/08/2025,Tumpa Khatun,21,Female,B+,10.9,6.5,0.7,64,Negative,10800,"Anemia, Inflammation"
+30/08/2025,Naimul,9,Male,B+,10.6,6.5,0.64,27,Negative,7900,"Anemia, Kidney Problem, Inflammation"
+31/08/2025,Anisur Rahman,50,Male,A+,11.8,14.2,0.99,42,Negative,10500,"Anemia, Diabetes, Inflammation"
+31/08/2025,Moushomi Khatun,25,Female,,10.9,5.8,0.74,30,Negative,9500,"Anemia, Inflammation"
+31/08/2025,Yarun,9,Male,A+,13.8,7.1,0.8,47,Negative,4900,Inflammation
+31/08/2025,Naim,20,Male,O+,15.9,6.7,0.96,37,Negative,4700,Inflammation
+31/08/2025,Sakib,25,Male,O+,15.9,6.8,1,41,Negative,6900,Inflammation
+01/09/2025,Ziaur Rahman,42,Male,O+,11.8,5.9,1.01,9.2,Negative,10500,Anemia
+01/09/2025,Begum,45,Female,B+,11.5,4,0.8,34,Negative,9600,"Anemia, Inflammation"
+01/09/2025,Haider Ali,50,Male,A+,11,6.3,0.75,48,Negative,9500,"Anemia, Inflammation"
+01/09/2025,Mst.Poli Khatun,9,Female,O+,13.8,6.2,1,48,Negative,4800,Inflammation
+01/09/2025,Zesmin,35,Female,AB+,12.8,6.2,1.06,54,Negative,4400,Inflammation
+02/09/2025,Aleya Khatun,55,Female,A+,11,5.4,0.83,27,Negative,9600,"Anemia, Inflammation"
+02/09/2025,Abdul Latib,52,Male,O+,11.5,7.1,0.84,38,Negative,10500,"Anemia, Inflammation"
+02/09/2025,Shajeda Khatun,40,Female,O+,10.8,6.9,0.99,68,Negative,9800,"Anemia, Inflammation"
+02/09/2025,Jesmin,26,Female,,10.7,5.7,1.05,42,Negative,10800,"Anemia, Inflammation"
+02/09/2025,Shanta,25,Female,O+,9,4.6,0.72,59,Negative,9500,"Anemia, Inflammation"
+04/09/2025,Shamsul,45,Male,O+,11.8,7.6,0.81,22,Negative,10600,"Anemia, Inflammation"
+04/09/2025,Jannatul,20,Female,,12.2,5.6,0.65,8.7,Negative,9500,Normal
+04/09/2025,Abdul Kader,65,Male,O+,11,5.7,1.06,55,Negative,9700,"Anemia, Inflammation"
+01/09/2025,Zesmin,35,Female,,13.1,6.2,0.68,54,Negative,8200,Inflammation
+02/09/2025,Aleya Khatun,55,Female,A+,11,4.8,0.76,27,Negative,9600,"Anemia, Inflammation"
+02/09/2025,Abdul Latib,52,Male,O+,11.5,5.4,1.21,38,Negative,10500,"Anemia, Inflammation"
+02/09/2025,Shajeda Khatun,40,Female,O+,10.8,6.9,0.6,68,Negative,9800,"Anemia, Inflammation"
+02/09/2025,Jesmin,26,Female,,10.7,5.7,0.99,42,Negative,10800,"Anemia, Inflammation"
+02/09/2025,Shanta,25,Female,O+,9,4.4,1.08,59,Negative,9500,"Anemia, Inflammation"
+04/09/2025,Shamsul,45,Male,O+,11.8,5.6,0.84,22,Negative,10600,"Anemia, Inflammation"
+04/09/2025,Jannatul,20,Female,,13.3,5.2,0.82,13.7,Negative,9500,Normal
+04/09/2025,Abdul Kader,65,Male,O+,11,5.7,0.79,55,Negative,9700,"Anemia, Inflammation"
+14/10/2025,Munshid Khatun,20,Female,O+,11.5,12,0.7,49,Negative,10500,"Anemia, Diabetes, Inflammation"
+14/10/2025,Sadia Khan,24,Female,O+,11.5,11.2,0.71,47,Negative,10000,"Anemia, Diabetes, Inflammation"
+14/10/2025,Afroj Khatun,47,Female,A+,10.5,5.9,0.82,29,Negative,9500,"Anemia, Inflammation"
+14/10/2025,Kjol Rekha,34,Female,B+,10.6,6.5,0.69,95,Negative,10800,"Anemia, Inflammation"
+14/10/2025,Rahima Khatun,55,Female,O+,13.8,7.5,0.73,7.8,Positive,4900,Hepatitis B
+14/10/2025,Mohabbat,35,Female,O+,12.5,4,0.97,80,Negative,10500,Inflammation
+14/10/2025,Zana Rani,20,Female,O+,9.2,9.6,0.87,15.9,Negative,7000,"Anemia, Prediabetes"
+14/10/2025,Giash,26,Male,O+,16.2,6.1,1.22,3.9,Positive,7500,Hepatitis B
+14/10/2025,Ebadot,37,Male,O+,13.1,7.6,0.77,4.2,Negative,10200,Normal
+14/10/2025,Alfa,20,Male,A+,11.5,5.8,0.35,1.6,Negative,9500,"Anemia, Kidney Problem"
+14/10/2025,Mim,21,Female,,9,4.8,0.69,2.7,Negative,6700,Anemia
+14/10/2025,Yasmin,20,Female,O-,9.5,5.8,0.62,3.8,Negative,10900,Anemia
+14/10/2025,Aminul Islam,49,Male,,8.7,14.3,1.28,1.1,Negative,5600,"Anemia, Diabetes"
+14/10/2025,Rupa Khan,20,Female,B+,13,7.6,0.83,12,Negative,7800,Normal
+14/10/2025,Mim Zara,20,Female,B+,12.8,5.9,0.77,11.1,Negative,10000,Normal
+14/10/2025,MD. Akhtar,25,Male,B+,9.6,4,0.88,10.9,Negative,7100,Anemia
+20/10/2025,Mahima,41,Female,,14,7.6,0.8,2.8,Negative,5400,Normal
+20/10/2025,Ms Bristy,33,Female,A+,11.2,5.7,0.94,9.4,Negative,10000,Anemia
+20/10/2025,Sana,65,Female,O+,14.9,4.9,0.93,19.6,Negative,9200,Normal
+20/10/2025,Abdullah,55,Male,O+,9.8,6.5,1,9.6,Negative,6400,Anemia
+22/10/2025,Khadija,54,Female,B+,11,2.4,0.98,70,Negative,9800,"Anemia, Inflammation"
+22/10/2025,Ruba,15,Female,,10.9,6.5,0.68,58,Negative,9600,"Anemia, Inflammation"
+22/10/2025,Ms Isma,30,Female,O+,10.2,6.1,0.62,63,Negative,10800,"Anemia, Inflammation"
+22/10/2025,Suchi,18,Female,B+,9,5.6,0.86,18.7,Negative,5200,Anemia
+24/10/2025,Rotna,25,Female,,14,4.7,0.93,8.5,Negative,5200,Normal
+24/10/2025,Emon,20,Male,A+,15.3,5.2,0.8,9.5,Negative,9500,Normal
+24/10/2025,Manik Hossain,36,Male,,16.5,5.8,1.3,11.5,Negative,8500,Normal
+25/10/2025,Shamoli,40,Female,AB+,9.6,6.1,0.97,17.7,Negative,5400,Anemia
+25/10/2025,Mohiuddin,40,Male,,16.1,7.4,0.96,13.6,Negative,9400,Normal
+25/10/2025,Sufia Khatun,35,Female,A+,10.5,4.5,1.93,70,Negative,9200,"Anemia, Kidney Problem, Inflammation"
+25/10/2025,Nipun,21,Female,,10.3,9,0.4,9.3,Negative,9900,"Anemia, Prediabetes, Kidney Problem"
+26/10/2025,Tofiq,25,Male,O+,14.5,5,1.09,5.6,Negative,4600,Normal
+26/10/2025,Sumi Khatun,22,Female,,9.6,5.8,0.8,63,Negative,9600,"Anemia, Inflammation"
+26/10/2025,Rajia,30,Female,AB+,14.1,5.4,0.67,9.5,Negative,5200,Normal
+26/10/2025,Sadia Afrin,30,Female,A+,9.4,6.7,0.93,72,Negative,9500,"Anemia, Inflammation"
+26/10/2025,Anik,35,Male,A+,15.2,5.6,0.71,9.2,Negative,4700,Normal
+27/10/2025,Parul Kha,35,Female,O+,11.4,6.4,0.91,9.8,Negative,10500,Anemia
+29/10/2025,Shahida,40,Female,,11,6.5,0.87,32,Negative,9500,"Anemia, Inflammation"
+29/10/2025,Akbar Ali,60,Male,B+,11.8,5.8,1.27,64,Negative,9800,"Anemia, Inflammation"
+29/10/2025,Tuhina,37,Female,O+,9.7,7.1,1.06,16.5,Negative,9100,Anemia
+30/10/2025,Jui,20,Female,,10,5.8,1.06,70,Negative,10500,"Anemia, Inflammation"
+31/10/2025,Isra,23,Female,O+,9.6,5.4,0.73,70,Negative,10800,"Anemia, Inflammation"
+31/10/2025,Ishak,62,Male,,11.6,6.9,0.89,96,Negative,9700,"Anemia, Inflammation"
+31/10/2025,Swandip,20,Male,O+,9.6,5.4,1.21,89,Negative,9800,"Anemia, Inflammation"
+31/10/2025,Dia,18,Female,A+,10,6.1,0.68,69,Negative,9600,"Anemia, Inflammation"
+01/11/2025,Monowara,60,Female,,10.6,6.9,0.84,8.5,Negative,8300,Anemia
+01/11/2025,Arian,8,Male,B+,16.3,6.6,1.27,1.3,Negative,5300,Normal
+01/11/2025,Noyon,20,Male,B+,14.7,4.8,1.24,2,Positive,7100,Hepatitis B
+01/11/2025,Khadija,18,Male,,9.5,6.4,0.79,89,Negative,9500,"Anemia, Inflammation"
+01/11/2025,Momotaj,20,Female,B+,10,5.3,0.7,68,Negative,9600,"Anemia, Inflammation"
+02/11/2025,Nihan,7,Male,A+,11.5,5.7,0.82,36,Negative,6400,"Anemia, Inflammation"
+03/11/2025,Zoynul Abedin,50,Male,O+,14.9,4.9,0.87,5.3,Negative,11500,Leukocytosis
+03/11/2025,Mezbah,55,Male,,12.5,5.9,1.05,2.3,Negative,6400,Anemia
+03/11/2025,Hasina Khatun,65,Female,B+,14.1,4.9,0.81,3.3,Negative,9800,Normal
+03/11/2025,Babul,28,Male,AB+,11.2,4.6,1.11,3.5,Negative,10800,Anemia
+03/11/2025,Nargis,40,Female,,12.9,6.5,1,4.5,Negative,9700,Normal
+04/11/2025,Asura Rahman,25,Male,O+,9.9,7.4,0.95,2.2,Negative,9700,Anemia
+04/11/2025,Kosiron,80,Female,,11.2,5.3,0.8,68,Negative,5700,"Anemia, Inflammation"
+04/11/2025,Rakib,35,Male,B+,15.5,5.8,1.27,9.4,Negative,9400,Normal
+05/11/2025,Rasel,30,Male,,15.4,8.6,1.18,10.1,Negative,11500,"Prediabetes, Leukocytosis"
+05/11/2025,Sobia,35,Female,O+,12.5,5.3,1.05,15.6,Negative,6300,Normal
+05/11/2025,Moslima Khatun,26,Female,O+,9.5,4.8,0.99,68,Negative,7500,"Anemia, Inflammation"
+05/11/2025,Sonia Khatun,25,Female,B+,9.1,6.7,0.76,17.2,Negative,9700,Anemia
+06/11/2025,Khodja,80,Female,,14,4.3,0.91,9.6,Negative,9900,Normal
+06/11/2025,Abu Taleb,5,Male,O+,13.6,4.8,1.22,7.6,Negative,9800,Normal
+06/11/2025,Monarul Islam,22,Male,A+,12.9,6.5,1.02,3.5,Negative,7100,Anemia
+07/11/2025,Dola,40,Female,B+,13.9,6.2,0.87,5.4,Negative,4900,Normal
+07/11/2025,Mostafa,70,Male,O-,9.8,6.3,0.74,3,Negative,9600,Anemia
+07/11/2025,Zesmin,19,Female,O+,9.9,5.8,0.76,68,Negative,11000,"Anemia, Inflammation"
+07/11/2025,Nabia,22,Female,,9.6,6.5,0.8,9.1,Negative,11500,"Anemia, Leukocytosis"
+16/11/2025,Alamin,25,Male,B+,11.9,6.6,1.12,12,Negative,5200,Anemia
+16/11/2025,Shageda Khatun,40,Female,A+,11,6.5,0.77,45,Negative,4600,"Anemia, Inflammation"
+16/11/2025,Nabiu Uddin,80,Male,,11.5,6.2,0.9,55,Negative,10900,"Anemia, Inflammation"
+16/11/2025,Shahanaz,22,Female,O+,9.5,4.9,0.86,59,Positive,4100,"Anemia, Inflammation, Hepatitis B"
+16/11/2025,Salma,26,Female,,8.9,5.7,0.82,52,Negative,11500,"Anemia, Inflammation, Leukocytosis"
+16/11/2025,Rima Khatun,24,Female,B+,7.9,4.6,0.64,22,Negative,9600,"Anemia, Inflammation"
+16/11/2025,Nabila,28,Female,O+,14.7,4.6,0.76,5.3,Negative,5100,Normal
+18/11/2025,Lima,40,Female,,11.5,5.9,0.98,85,Negative,9700,"Anemia, Inflammation"
+18/11/2025,Zohurul,48,Male,A+,13.3,5.9,0.74,12.2,Negative,7000,Normal
+18/11/2025,Najmul,22,Male,,10.6,6,1.23,10.1,Negative,6100,Anemia
+18/11/2025,Rina Khatun,35,Female,B+,12.7,5.6,0.7,2,Negative,11500,Leukocytosis
+18/11/2025,Rumpa Khatun,22,Female,AB+,9.8,4.8,0.82,25,Negative,9500,"Anemia, Inflammation"
+18/11/2025,Sumaya Khatun,18,Female,O+,9.2,5.9,0.87,68,Negative,9800,"Anemia, Inflammation"
+20/11/2025,Zesmin,22,Female,,9.6,5.8,0.6,29,Positive,9600,"Anemia, Inflammation, Hepatitis B"
+20/11/2025,Tanur,8,Female,B+,13.1,7.5,0.97,12.4,Negative,9200,Normal
+20/11/2025,Naim,20,Male,B+,14.8,3.9,0.98,5.7,Negative,10200,Normal
+21/11/2025,Mst Zora Khatun,22,Female,,9.5,6.5,0.88,1.4,Negative,10100,Anemia
+21/11/2025,Smrity Akter,32,Female,B+,14.2,7.4,0.6,19.9,Negative,6700,Normal
+21/11/2025,Opi,25,Male,B+,14.2,5.7,0.96,5.1,Negative,9100,Normal
+23/11/2025,Reshma Khatu,35,Female,AB+,10.2,9.7,0.8,1.9,Negative,4700,"Anemia, Prediabetes"
+23/11/2025,Babul,48,Male,,14.5,5.4,1.17,3.8,Negative,6100,Normal
+23/11/2025,Shajeda Khat,40,Female,,11,6,0.62,12.5,Negative,10500,Anemia
+24/11/2025,Nina Khatun,24,Female,A+,12.5,3.8,1.07,19.3,Negative,8800,Normal
+24/11/2025,Milon,38,Male,A+,12.9,6.7,0.93,1.2,Negative,4000,Anemia
+24/11/2025,Babuli,70,Male,B+,14,6.4,1.07,12.7,Negative,8900,Normal
+24/11/2025,Manuf,30,Male,B+,16.6,4.6,1.1,5.4,Negative,7300,Normal
+25/11/2025,Shapla Khatun,25,Female,B+,7.7,5.7,0.86,5,Negative,9600,Anemia
+25/11/2025,Shapla Khat,25,Female,B+,13.7,3.6,1.02,9.5,Negative,9800,Normal
+25/11/2025,Imran,30,Male,B+,13.6,7.3,1.06,13.9,Negative,7600,Normal
+25/11/2025,Hajera Khatun,73,Female,O+,13.7,5.7,1.08,17,Negative,9400,Normal
+25/11/2025,Shuhan,25,Male,O+,13.7,5.8,1.05,14.5,Negative,10200,Normal
+25/11/2025,Asha Khatun,18,Female,O+,9.4,5.8,0.67,68,Negative,9500,"Anemia, Inflammation"
+26/11/2025,Min Khatun,27,Female,,11.5,5.5,1,38,Negative,10200,"Anemia, Inflammation"
+26/11/2025,Sanjida Khatun,26,Female,,10,6.7,0.89,25,Negative,9500,"Anemia, Inflammation"
+26/11/2025,Sabina,34,Female,,12.2,7.6,0.99,4.8,Negative,5900,Normal
+26/11/2025,Sajedur Rahman,27,Male,AB+,13.1,4.3,1.13,12.1,Negative,6400,Normal
+26/11/2025,Sumon,27,Male,,13.3,5,0.77,13.1,Positive,7700,Hepatitis B
+26/11/2025,Rashida Khatun,35,Female,,9.7,6.5,0.87,81,Negative,10500,"Anemia, Inflammation"
+26/11/2025,Zahurul Islam,50,Male,O+,14.8,3.9,0.92,10.4,Negative,6700,Normal
+26/11/2025,Roni,20,Male,O+,15.9,6.2,0.82,13.4,Negative,4700,Normal
+27/11/2025,Saidul Islam,50,Male,,14.5,10.2,0.92,14.6,Negative,10900,Prediabetes
+27/11/2025,Sopna Khatun,45,Female,,14.3,9.4,0.88,11.7,Negative,4700,Prediabetes
+27/11/2025,Monnab,60,Male,,14,3.7,0.89,10.9,Negative,8000,Normal
+27/11/2025,Asmani Khatun,20,Female,,9.2,3.6,0.65,1.6,Negative,4700,Anemia
+28/11/2025,Maya Khatun,20,Female,,9.8,5.8,0.76,10,Negative,4600,Anemia
+28/11/2025,Toma Khatun,18,Female,,9.6,5.6,1.05,59,Negative,9500,"Anemia, Inflammation"
+28/11/2025,Munni Khatun,20,Female,,9.9,4.5,0.81,59,Negative,10500,"Anemia, Inflammation"
+28/11/2025,Brishti Khatun,20,Female,,9.7,6.7,0.71,62,Negative,9400,"Anemia, Inflammation"
+28/11/2025,Hasan Baka,35,Male,B+,13.3,4.7,0.82,3.3,Negative,10100,Normal
+28/11/2025,Milon,20,Male,,12.9,6.1,0.92,5.1,Negative,10400,Anemia
+28/11/2025,Shiuly Akter,40,Female,A+,14.6,6.9,0.88,4.5,Negative,10700,Normal
+28/11/2025,Sakil,25,Male,A+,15.2,6.9,1.24,5.5,Negative,6000,Normal
+29/11/2025,Shiuly Khatun,26,Female,O+,12.7,5.3,0.82,16.5,Negative,4700,Normal
+29/11/2025,Ashik,27,Male,O+,14.2,4.2,0.92,8.5,Negative,10500,Normal
+29/11/2025,Jomoratul,25,Female,,10,4.4,0.88,3.3,Negative,5000,Anemia
+29/11/2025,Sufia Akter,68,Female,,10.5,5.7,0.72,42,Negative,9600,"Anemia, Inflammation"
+29/11/2025,Abdul Kader,48,Male,,13.7,4.4,0.82,32,Negative,6300,Inflammation
+29/11/2025,Modhu,28,Female,,11.8,6.5,0.92,65,Negative,9500,"Anemia, Inflammation"
+29/11/2025,Shiuly Akter,26,Female,O+,13.1,7.6,0.88,19.3,Negative,4800,Normal
+29/11/2025,Asif,25,Male,O+,13.9,6.4,1.13,3.1,Negative,4800,Normal
+29/11/2025,Dilnoba,28,Female,A+,9,6.8,0.89,55,Negative,10800,"Anemia, Inflammation"
+01/12/2025,Papia Khatun,35,Female,,12.1,8.7,0.9,10.6,Negative,7000,Prediabetes
+01/12/2025,Sabbir,20,Male,,13.1,5.8,0.91,9.9,Negative,9100,Normal
+01/12/2025,Siam,20,Male,,13.6,5.6,1.29,4.4,Negative,5500,Normal
+01/12/2025,Mokbul Hossain,62,Male,,13.3,5.9,0.92,6.2,Negative,1700,Leukopenia
+02/12/2025,Laltex Kha,64,Male,,11.4,4.5,1.18,55,Negative,9500,"Anemia, Inflammation"
+02/12/2025,Keya Khatun,20,Female,,8.4,5.5,1.09,8.6,Negative,7100,Anemia
+02/12/2025,Papia Khatun,35,Female,,12.3,9.2,1.02,7.1,Negative,4500,Prediabetes
+02/12/2025,Jhumur,19,Female,,10,6.4,0.86,17.3,Negative,5000,Anemia
+03/12/2025,Abdul Korim,70,Male,,11.5,5.5,1.11,49,Negative,9500,"Anemia, Inflammation"
+03/12/2025,Munnal,60,Male,,11.5,3.6,1.01,4.2,Negative,9500,Anemia
+04/12/2025,Ayub Norin,70,Female,,11.6,6.2,0.89,22,Negative,10200,"Anemia, Inflammation"
+04/12/2025,Akhi Khatun,28,Female,,11.4,6.6,0.87,29,Negative,9800,"Anemia, Inflammation"
+04/12/2025,Asia,75,Female,A+,12.5,6.4,0.79,18.8,Negative,9300,Normal
+04/12/2025,Khairul Nai,42,Male,A+,15.7,6.6,0.83,8.6,Negative,10600,Normal
+04/12/2025,Mst. Kushi Khatun,25,Female,B+,9.8,5.4,0.76,42,Negative,10400,"Anemia, Inflammation"
+04/12/2025,Siam,20,Male,,14,6.3,0.59,12.4,Negative,8000,Kidney Problem
+05/12/2025,Umoti Khatun,25,Female,B+,10.5,5.4,0.78,10.8,Negative,7300,Anemia
+05/12/2025,Ziaull Hogue,65,Male,,14,10.7,0.76,13.6,Negative,6600,Prediabetes
+05/12/2025,Nupun,20,Female,,8.9,5.3,0.72,65,Negative,10400,"Anemia, Inflammation"
+05/12/2025,Shamoli Khatun,25,Female,A+,9.8,8.9,0.87,82,Negative,9800,"Anemia, Prediabetes, Inflammation"
+05/12/2025,Ruksana,25,Female,,10.5,7.2,0.92,4.6,Negative,8000,Anemia
+06/12/2025,Moslima Khatun,25,Female,,10,6.4,0.82,17.1,Negative,7000,Anemia
+06/12/2025,Feroja Khatun,70,Female,O+,14.7,6.8,0.92,13.2,Negative,7300,Normal
+06/12/2025,Rubel,63,Male,O+,16.7,6.8,0.88,10.4,Negative,9000,Normal
+06/12/2025,Reshma Khatun,19,Female,O+,9.6,5.4,0.71,35,Negative,10700,"Anemia, Inflammation"
+06/12/2025,Papia Khatun,34,Female,,9.7,3.5,0.65,75,Negative,9800,"Anemia, Inflammation"
+07/12/2025,Rubia Khatun,18,Female,,10.6,6.3,0.82,1.1,Negative,5600,Anemia
+07/12/2025,Afroja Khatun,40,Female,,9.2,6.8,0.92,66,Negative,9500,"Anemia, Inflammation"
+07/12/2025,Ruhan,4,Male,O+,14.2,5.5,0.88,7.3,Negative,7800,Normal
+07/12/2025,Ejal,26,Male,O+,13.9,6.5,0.84,5.6,Negative,9800,Normal
+08/12/2025,Rahaton Nesa,70,Female,,8.5,6.6,0.78,78,Positive,9200,"Anemia, Inflammation, Hepatitis B"
+08/12/2025,Rupa Khatun,22,Female,,9.7,6.6,0.86,52,Negative,9800,"Anemia, Inflammation"
+08/12/2025,Subia Khatun,43,Female,B+,14.2,4.8,0.87,10.7,Negative,8000,Normal
+08/12/2025,Zim,22,Male,B+,14.1,4.5,0.82,14.6,Negative,4900,Normal
+09/12/2025,Shahanis,17,Male,,12.6,5.5,0.92,85,Negative,9800,"Anemia, Inflammation"
+09/12/2025,Aminul,49,Male,O+,16.6,5.3,0.88,5.9,Negative,4100,Normal
+09/12/2025,Naim,24,Male,O+,13.2,6.3,1.22,4.2,Negative,9800,Normal
+09/12/2025,Nazma Khatun,53,Female,,10.5,9,0.74,59,Negative,9500,"Anemia, Prediabetes, Inflammation"
+09/12/2025,Odhona,18,Female,,9.8,5.6,0.89,57,Negative,9800,"Anemia, Inflammation"
+09/12/2025,Salma Khatun,28,Female,O+,12.1,6.2,0.69,18.9,Negative,5200,Normal
+09/12/2025,Sabbira Rahman,27,Male,O+,14.1,7.2,1.15,14.3,Negative,4900,Normal
+09/12/2025,Laboni Khatun,27,Female,,10.5,5.3,0.82,42,Negative,10500,"Anemia, Inflammation"
+09/12/2025,Almina Khatun,18,Female,,10,7.6,0.92,19.3,Negative,10800,Anemia
+09/12/2025,Monira,18,Female,,10.5,3.8,0.88,6.8,Negative,6700,Anemia
+09/12/2025,Lipi Khatun,32,Female,,10,7.1,0.76,4.2,Negative,10400,Anemia
+11/12/2025,Sumi Khatun,22,Female,B+,10.5,5.9,0.79,8.5,Negative,10800,Anemia
+11/12/2025,Altab Hossain,45,Male,,11,7,1.26,2,Negative,9600,Anemia
+11/12/2025,Abdul Kader,35,Male,,13.8,6.3,0.92,4.6,Negative,7300,Normal
+11/12/2025,Pervin,18,Female,B+,14.6,6.6,0.95,14.3,Negative,5600,Normal
+12/12/2025,Abdil Jalil,70,Male,,11.5,5.4,1,51,Negative,9700,"Anemia, Inflammation"
+12/12/2025,Shilpi Khatun,30,Female,A+,9.5,6.7,0.87,65,Negative,10400,"Anemia, Inflammation"
+12/12/2025,Asha Khatun,20,Female,,12.9,5.3,0.81,5.9,Negative,8400,Normal
+12/12/2025,Abu Taleb,70,Male,O+,16.7,5.6,1,12.2,Negative,4800,Normal
+12/12/2025,Polash,30,Male,O+,12.9,3.8,0.94,1.7,Negative,7100,Anemia
+12/12/2025,Bulbul Hossain,29,Male,B+,13.2,5.8,0.89,12,Negative,10800,Normal
+13/12/2025,Sumi Khatun,18,Female,,10.8,4.9,0.82,8.1,Negative,8700,Anemia
+13/12/2025,Mostarik Khatun,55,Female,,13.3,6.3,0.92,7.2,Negative,7600,Normal
+13/12/2025,Nurul Islam,55,Male,,11.5,6.2,0.88,39,Negative,9500,"Anemia, Inflammation"
+16/12/2025,Aminul,50,Male,B+,15.2,4.7,1.05,1.4,Negative,6000,Normal
+16/12/2025,Shuvo,27,Male,O+,13.2,4.8,1.02,5.6,Negative,9600,Normal
+16/12/2025,Lamiya Khatun,20,Female,A+,9,6.7,0.79,57,Negative,10500,"Anemia, Inflammation"
+16/12/2025,Laboni Khatun,33,Female,,11.2,5.7,0.71,27,Negative,9600,"Anemia, Inflammation"
+17/12/2025,Tangila Khatun,20,Female,AB+,8.9,6.8,0.74,75,Negative,10000,"Anemia, Inflammation"
+17/12/2025,Mst. Shuly Khatun,48,Female,,10,6.1,0.64,2,Negative,10900,Anemia
+18/12/2025,Tangila Akter,20,Female,AB+,14.1,4.1,0.67,19.4,Negative,7800,Normal
+18/12/2025,Anisul Islam,25,Male,AB+,14.3,6.8,0.86,7.1,Negative,10700,Normal
+18/12/2025,Ferdousi Khatun,25,Female,O+,10.8,5.8,0.73,47,Negative,9800,"Anemia, Inflammation"
+18/12/2025,Mahmudul Hasan,70,Male,A+,14,4.3,0.75,7,Negative,4100,Normal
+19/12/2025,Mamun Vai,30,Female,,13.2,4.2,0.68,5.8,Negative,11000,Normal
+19/12/2025,Pakhi Khatun,28,Female,,9.5,6.5,0.93,6.3,Negative,7800,Anemia
+19/12/2025,Mst. Mitu Khatun,19,Female,A+,9,5.5,0.74,45,Negative,10800,"Anemia, Inflammation"
+22/12/2025,Jesmin Khatun,20,Female,B+,10.5,5.5,0.68,58,Negative,9600,"Anemia, Inflammation"
+22/12/2025,Shathena Khatun,50,Female,O+,11.8,5.7,0.93,9.3,Negative,5300,Anemia
+22/12/2025,Shikha Khatun,35,Female,,9.5,3.7,0.87,11.8,Negative,5700,Anemia
+25/12/2025,Smita Khatun,18,Female,A+,14.3,3.6,0.66,1.9,Negative,7300,Normal
+25/12/2025,Rumi,25,Female,,9.8,4.8,1.09,4.3,Negative,5400,Anemia
+26/12/2025,Samia Khatun,20,Female,,9.8,3.9,0.85,10,Negative,5300,Anemia
+26/12/2025,Ismotara,25,Female,,10.2,6.8,0.87,49,Negative,10200,"Anemia, Inflammation"
+26/12/2025,Mazeda,37,Female,,9.5,5.5,0.92,1.9,Negative,11000,Anemia
+26/12/2025,Suborna,18,Female,A+,8.9,5.8,0.76,65,Negative,10500,"Anemia, Inflammation"
+26/12/2025,Ummi Khatun,18,Female,,13.9,3.7,0.82,8.1,Negative,5900,Normal
+26/12/2025,Mitul,20,Female,A+,14.8,5.6,0.92,11.2,Negative,7400,Normal
+26/12/2025,Zim,26,Male,A+,13.5,6.1,0.88,14.2,Negative,7600,Normal
+26/12/2025,Mukti,25,Female,B+,9.8,5.8,0.76,55,Negative,10200,"Anemia, Inflammation"
+27/12/2025,Shahinur,24,Male,O+,10,5.6,0.84,45,Negative,9500,"Anemia, Inflammation"
+28/12/2025,Mini,26,Female,,11.6,5.1,0.61,28,Negative,9500,"Anemia, Inflammation"
+28/12/2025,Rokon Ali,55,Male,,15.3,9.8,1.26,9.1,Negative,6600,Prediabetes
+29/12/2025,Mst. Rojia Khatun,18,Female,AB+,9.4,5.8,0.82,59,Negative,10800,"Anemia, Inflammation"
+29/12/2025,Hasna Khatun,50,Female,A+,11.8,5.8,0.92,29,Negative,10500,"Anemia, Inflammation"
+30/12/2025,Sathi,23,Female,B+,11.3,4.6,0.88,29,Negative,9500,"Anemia, Inflammation"
+30/12/2025,Sumi,8,Female,B+,13.7,4,1.01,16.6,Negative,8300,Normal
+30/12/2025,Anik,22,Male,B+,14.5,7.5,0.82,13.7,Negative,6600,Normal
+30/12/2025,Bilash,30,Male,O+,13.3,3.9,0.92,1.3,Negative,7300,Normal
+30/12/2025,Ripon,33,Male,O+,15.5,4.9,0.88,10.2,Negative,10400,Normal
+31/12/2025,Md. Sobin Uddin,40,Male,,12.2,7,0.71,72,Negative,9600,"Anemia, Inflammation"
+31/12/2025,Shojedh Khan,55,Male,,16.3,9.7,0.98,4.9,Negative,10200,Prediabetes
+31/12/2025,Md. Zahangir Alam,38,Male,O+,15.8,5,0.82,14.1,Negative,7200,Normal
+28/01/2026,Abul Kashem,50,Male,,16.2,8.7,0.92,4.9,Negative,4600,Prediabetes
+28/01/2026,Md Rakibul,23,Male,O+,12.5,5.2,0.88,32,Negative,10800,"Anemia, Inflammation"
+28/01/2026,Mim Khatun,25,Female,,11.4,5.4,0.81,40,Negative,9200,"Anemia, Inflammation"
+29/01/2026,Nurul Islam,39,Male,O+,15.1,5.9,1.05,11.2,Negative,6800,Normal
+29/01/2026,Nasrin Akter,19,Female,B+,12.4,6,0.73,12,Negative,8200,Normal
+29/01/2026,Arifa Khatun,37,Female,B+,12.8,7.4,1.03,23,Negative,6200,Inflammation
+29/01/2026,Nazrul Islam,28,Male,A+,13.2,5.3,1.15,26,Negative,4800,Inflammation
+29/01/2026,Arif Hossain,46,Male,A+,16,3.9,1.24,8.1,Negative,5100,Normal
+29/01/2026,Roksana Begum,23,Female,O+,8.5,9.9,0.79,6.7,Negative,9700,"Anemia, Prediabetes"
+29/01/2026,Moniruzzaman,43,Male,O+,11.1,26,0.76,13,Negative,9400,"Anemia, Diabetes"
+31/01/2026,Alamgir Hossain,62,Male,,16.1,5.8,0.71,13.7,Negative,7500,Normal
+31/01/2026,Nurunnahar,12,Female,O-,10.9,5.1,0.78,22,Negative,3300,"Anemia, Inflammation, Leukopenia"
+01/02/2026,Alamgir Hossain,48,Male,,16.8,7.5,1.04,9.8,Negative,8000,Normal
+01/02/2026,Md. Jahangir,17,Male,A+,15.4,5.4,0.76,2,Positive,13200,"Hepatitis B, Leukocytosis"
+02/02/2026,Champa Akter,66,Female,O+,10.7,4.4,0.44,7.2,Negative,10400,"Anemia, Kidney Problem"
+02/02/2026,Firoza Begum,50,Female,O+,12.4,5.6,0.94,43,Negative,9300,Inflammation
+02/02/2026,Nurunnahar,69,Female,A+,10.2,6.8,0.99,2.7,Negative,10000,Anemia
+02/02/2026,Saleha Begum,67,Female,A+,8.1,5.6,0.63,37,Negative,6900,"Anemia, Inflammation"
+02/02/2026,Sumi Begum,47,Female,B+,13.6,15.6,0.87,9.4,Negative,10100,Diabetes
+02/02/2026,Alamgir Hossain,41,Male,A+,16.6,4.6,0.91,54,Negative,4500,Inflammation
+02/02/2026,Lipi Akter,75,Female,O+,14.9,6.4,1.02,33,Negative,4000,Inflammation
+03/02/2026,Mahmuda Khatun,77,Female,AB+,11.1,6.1,0.65,2.6,Negative,5900,Anemia
+03/02/2026,Md. Kawsar,45,Male,AB+,9.8,6.4,0.74,16,Negative,3400,"Anemia, Inflammation, Leukopenia"
+03/02/2026,Halima Khatun,46,Female,B+,12.5,6,1.05,51,Negative,6600,Inflammation
+03/02/2026,Poly Begum,39,Female,B-,11.2,7,0.64,21,Negative,8200,"Anemia, Inflammation"
+04/02/2026,Razia Sultana,3,Female,O+,8.3,4.5,0.89,17.4,Negative,5600,Anemia
+04/02/2026,Shahanara Begum,60,Female,B+,13.4,6.9,0.65,38,Negative,8300,Inflammation
+04/02/2026,Mina Begum,3,Female,,10.9,7.3,0.71,12.2,Negative,7300,Anemia
+05/02/2026,Md. Liton,45,Male,O-,12.1,5.1,0.75,11.9,Negative,10100,Anemia
+05/02/2026,Rina Begum,46,Female,O+,14.1,4.5,0.77,9.3,Negative,8300,Normal
+05/02/2026,Parvin Begum,29,Female,B+,12.8,18.6,0.93,8.7,Negative,6000,Diabetes
+07/02/2026,Amena Khatun,44,Female,AB+,9.4,5.7,0.43,27,Negative,6200,"Anemia, Kidney Problem, Inflammation"
+07/02/2026,Md. Fahim,15,Male,,13.2,4,0.77,10.1,Negative,14400,Leukocytosis
+07/02/2026,Champa Akter,53,Female,B+,10,6.4,0.72,8.6,Negative,9600,Anemia
+08/02/2026,Josna Begum,5,Female,A+,7.7,4.7,0.59,22,Negative,11000,"Anemia, Kidney Problem, Inflammation"
+08/02/2026,Kamruzzaman,41,Male,A+,15.1,10.1,0.96,12.2,Negative,5700,Prediabetes
+08/02/2026,Lipi Akter,49,Female,B+,12.5,10,0.85,7,Negative,9400,Prediabetes
+08/02/2026,Zinnat Ara,53,Female,B-,12,10.2,0.88,7.1,Negative,4100,Prediabetes
+08/02/2026,Nazrul Islam,37,Male,B+,15.1,21.8,1.3,2,Negative,5400,Diabetes
+08/02/2026,Roksana Begum,11,Female,O+,14.1,3.8,0.4,32,Negative,4900,"Kidney Problem, Inflammation"
+08/02/2026,Dilruba Akter,36,Female,B+,10.7,5,0.91,14.2,Negative,6400,Anemia
+09/02/2026,Asma Khatun,32,Female,B+,8.9,5.4,0.41,12.9,Negative,10600,"Anemia, Kidney Problem"
+09/02/2026,Md. Emon,40,Male,A+,12.8,6,0.99,8,Negative,5300,Anemia
+10/02/2026,Md. Shakil,44,Male,,10.7,7.3,0.73,4.9,Negative,13300,"Anemia, Leukocytosis"
+10/02/2026,Lima Khatun,44,Female,O+,12.2,5.9,0.7,24,Negative,13400,"Inflammation, Leukocytosis"
+10/02/2026,Nusrat Jahan,36,Female,B+,11.3,4.4,0.8,32,Negative,5700,"Anemia, Inflammation"
+10/02/2026,Parvin Begum,16,Female,,9.3,4.9,0.66,4.2,Negative,5900,Anemia
+10/02/2026,Jashim Uddin,56,Male,B+,14.9,5,0.93,9.2,Negative,10100,Normal
+10/02/2026,Md. Rasel,55,Male,B+,8.8,4.9,1.18,6,Negative,10900,Anemia
+10/02/2026,Roksana Begum,33,Female,B+,10.9,6.9,1.09,14.3,Negative,7100,Anemia
+11/02/2026,Suraia Khatun,24,Female,AB+,7.7,4.5,0.87,6.9,Negative,12800,"Anemia, Leukocytosis"
+11/02/2026,Md. Shakil,53,Male,AB+,8.9,5,1.11,48,Negative,4400,"Anemia, Inflammation"
+11/02/2026,Karim Hossain,46,Male,,13.5,3.8,1.26,36,Negative,8400,Inflammation
+11/02/2026,Md. Yusuf,23,Male,A+,14.5,6.3,0.95,24,Negative,8700,Inflammation
+11/02/2026,Sopna Khatun,28,Female,,9.7,6.1,0.81,25,Negative,10800,"Anemia, Inflammation"
+11/02/2026,Jahirul Islam,52,Male,AB-,13.8,7.2,1.03,44,Negative,11000,Inflammation
+11/02/2026,Sharmin Akter,46,Female,A+,8.4,3.6,0.79,36,Negative,7200,"Anemia, Inflammation"
+12/02/2026,Dilruba Akter,28,Female,O+,14.4,5.9,0.59,19,Positive,5800,"Kidney Problem, Hepatitis B"
+12/02/2026,Nasrin Akter,16,Female,,9.4,5.6,1.09,8.2,Negative,9500,Anemia
+12/02/2026,Asma Khatun,51,Female,B+,11.6,10.6,0.8,31,Negative,5600,"Anemia, Prediabetes, Inflammation"
+12/02/2026,Md. Sagor,39,Male,AB+,16.5,7,0.73,34,Negative,12600,"Inflammation, Leukocytosis"
+12/02/2026,Rahela Begum,67,Female,O+,9,3.8,0.69,40,Negative,4500,"Anemia, Inflammation"
+12/02/2026,Shafiqul Islam,72,Male,O+,12,5.2,0.86,31,Negative,4100,"Anemia, Inflammation"
+14/02/2026,Tarek Aziz,70,Male,A+,15,3.7,1.4,56,Negative,7900,"Kidney Problem, Inflammation"
+14/02/2026,Zinnat Ara,73,Female,B+,11,9.7,0.95,11.2,Negative,4700,"Anemia, Prediabetes"
+15/02/2026,Hamida Begum,35,Female,O+,12.9,6.6,0.57,18.4,Negative,8900,Kidney Problem
+15/02/2026,Champa Akter,47,Female,B+,10.2,5.3,1.07,25,Negative,8600,"Anemia, Inflammation"
+15/02/2026,Moniruzzaman,56,Male,B+,11.7,6.5,0.85,7.3,Negative,10900,Anemia
+15/02/2026,Sadia Islam,51,Female,B+,12.8,10.2,0.74,57,Negative,4500,"Prediabetes, Inflammation"
+15/02/2026,Sonia Begum,69,Female,A+,11.3,4.5,1.04,56,Negative,8200,"Anemia, Inflammation"
+15/02/2026,Rokeya Khatun,36,Female,AB+,7.7,6.7,0.62,5,Negative,12300,"Anemia, Leukocytosis"
+16/02/2026,Asaduzzaman,25,Male,O+,10.9,6.3,0.68,4.8,Negative,12700,"Anemia, Kidney Problem, Leukocytosis"
+16/02/2026,Nazmul Hasan,50,Male,O+,10.5,6.3,1.01,19,Negative,7500,"Anemia, Inflammation"
+16/02/2026,Mariam Khatun,64,Female,AB+,14.3,5.7,1.03,11.5,Negative,8600,Normal
+16/02/2026,Sabina Yasmin,35,Female,O+,8.2,5.4,0.64,16,Negative,8500,Anemia
+16/02/2026,Setu Akter,72,Female,A+,9.5,6.5,0.67,32,Negative,6200,"Anemia, Inflammation"
+17/02/2026,Reshma Akter,22,Female,O+,7.8,9.7,0.86,9,Negative,10600,"Anemia, Prediabetes"
+17/02/2026,Jashim Uddin,36,Male,B+,11.7,6.8,1.12,27,Negative,5900,"Anemia, Inflammation"
+18/02/2026,Halima Khatun,51,Female,B+,14.1,11.8,0.97,5,Negative,6600,Diabetes
+18/02/2026,Jashim Uddin,24,Male,B+,16.1,8.4,1.29,11,Negative,7100,Prediabetes
+19/02/2026,Tarek Aziz,49,Male,A+,10.1,6,1.1,25,Negative,10700,"Anemia, Inflammation"
+19/02/2026,Rashidul Islam,11,Male,O+,14.6,5.3,1.24,5.9,Negative,5100,Normal
+21/02/2026,Amena Khatun,43,Female,B-,10.5,5,0.71,8.8,Negative,10900,Anemia
+21/02/2026,Akbar Ali,32,Male,,9.3,4.4,0.72,6.8,Positive,8100,"Anemia, Hepatitis B"
+21/02/2026,Tania Begum,51,Female,A-,11.4,3.9,0.84,45,Negative,9800,"Anemia, Inflammation"
+22/02/2026,Mitu Khatun,30,Female,A+,15,4.3,1.06,11.6,Negative,10900,Normal
+22/02/2026,Md. Arafat,62,Male,A+,8.6,16.9,0.88,41,Negative,9300,"Anemia, Diabetes, Inflammation"
+22/02/2026,Champa Akter,41,Female,O+,9.7,7.1,0.57,16.8,Negative,10800,"Anemia, Kidney Problem"
+23/02/2026,Md. Asif,49,Male,A+,16.3,6.4,1.25,1.4,Negative,10600,Normal
+23/02/2026,Shahanara Begum,12,Female,O-,10,3.8,1.07,17.2,Negative,9700,Anemia
+23/02/2026,Md. Masum,74,Male,O+,9.2,5.6,1.12,56,Negative,8000,"Anemia, Inflammation"
+23/02/2026,Md. Rajib,24,Male,B+,15.7,6.7,1.16,8.1,Negative,8300,Normal
+23/02/2026,Jahirul Islam,40,Male,A+,15.9,6,0.92,27,Negative,7900,Inflammation
+23/02/2026,Kohinur Begum,71,Female,,9.1,5.9,1.1,39,Negative,8600,"Anemia, Inflammation"
+24/02/2026,Salma Begum,35,Female,B+,13.9,6.3,0.62,18.4,Negative,8900,Normal
+24/02/2026,Laila Khatun,16,Female,O-,8.4,4.2,0.9,31,Negative,7700,"Anemia, Inflammation"
+24/02/2026,Tahmina Akter,72,Female,A+,13.1,8.1,1.05,31,Negative,10100,"Prediabetes, Inflammation"
+24/02/2026,Nusrat Jahan,53,Female,,10.3,4.7,0.63,41,Negative,5800,"Anemia, Inflammation"
+24/02/2026,Nurul Islam,36,Male,B-,14.8,8.6,0.77,12.1,Negative,9500,Prediabetes
+24/02/2026,Sharmin Akter,3,Female,,9.9,5.8,1.09,1,Negative,9700,Anemia
+25/02/2026,Morjina Khatun,31,Female,A+,8.7,13.1,0.92,14.2,Negative,9400,"Anemia, Diabetes"
+25/02/2026,Bilkis Begum,53,Female,A+,13.3,6,0.79,33,Negative,7800,Inflammation
+26/02/2026,Arifa Khatun,47,Female,A+,13.9,6.8,0.48,14.7,Negative,5900,Kidney Problem
+26/02/2026,Anwar Hossain,42,Male,A+,12.3,5.8,0.82,32,Negative,13200,"Anemia, Inflammation, Leukocytosis"
+26/02/2026,Md. Sohel,5,Male,,9.8,8.4,0.9,8.5,Negative,9100,"Anemia, Prediabetes"
+26/02/2026,Tania Begum,58,Female,B+,13.6,9.9,0.85,9.9,Negative,8800,Prediabetes
+26/02/2026,Nurul Islam,71,Male,A+,13.4,20.3,1.13,30,Negative,10100,"Diabetes, Inflammation"
+26/02/2026,Nargis Begum,25,Female,A+,13.9,6.3,0.64,30,Negative,4900,Inflammation
+28/02/2026,Ismail Hossain,3,Male,O+,13.4,6.7,1.08,29,Negative,7700,Inflammation
+28/02/2026,Nur Jahan,41,Female,,11.4,3.9,0.69,38,Negative,4800,"Anemia, Inflammation"
+28/02/2026,Shahanara Begum,42,Female,B+,10.4,7.3,1.05,5.3,Negative,7500,Anemia
+01/03/2026,Md. Shakil,42,Male,B+,9.6,5.4,1.29,20,Negative,9500,"Anemia, Inflammation"
+01/03/2026,Nazmul Hasan,20,Male,B+,8.6,5.3,0.84,13.9,Negative,6600,Anemia
+01/03/2026,Nipa Begum,16,Female,,11.5,7.1,0.52,5.2,Positive,7000,"Anemia, Kidney Problem, Hepatitis B"
+01/03/2026,Alauddin Ahmed,15,Male,O+,9,5.1,1.06,31,Negative,3400,"Anemia, Inflammation, Leukopenia"
+01/03/2026,Rina Akter,46,Female,B+,9.4,5.3,0.9,1.2,Negative,10200,Anemia
+01/03/2026,Nargis Begum,28,Female,B+,9.3,8.5,0.7,3.1,Negative,9800,"Anemia, Prediabetes"
+01/03/2026,Md. Nayan,49,Male,O+,10.2,6.3,0.83,9.4,Negative,5600,Anemia
+02/03/2026,Md. Jahangir,31,Male,,14.2,7,0.83,13.6,Negative,5800,Normal
+02/03/2026,Nargis Begum,22,Female,AB+,9.4,9.6,0.63,3,Negative,14800,"Anemia, Prediabetes, Leukocytosis"
+02/03/2026,Zinnat Ara,44,Female,O+,7.7,10.7,0.54,24,Negative,6700,"Anemia, Prediabetes, Kidney Problem, Inflammation"
+02/03/2026,Arif Hossain,24,Male,O+,8.6,6,0.65,11,Negative,5200,"Anemia, Kidney Problem"
+02/03/2026,Rezaul Karim,43,Male,B+,11.1,3.7,0.98,27,Negative,8300,"Anemia, Inflammation"
+02/03/2026,Salauddin Ahmed,75,Male,O+,16,6.8,1.26,26,Negative,8300,Inflammation
+02/03/2026,Nur Jahan,44,Female,B-,10.9,13,0.82,16.5,Negative,12800,"Anemia, Diabetes, Leukocytosis"
+03/03/2026,Md. Fahim,14,Male,B+,8.9,5.7,0.83,10.1,Negative,4500,Anemia
+03/03/2026,Rokeya Khatun,17,Female,,12.9,5.4,0.79,34,Negative,7900,Inflammation
+03/03/2026,Rubina Khatun,68,Female,B+,11,7.4,0.56,26,Positive,4600,"Anemia, Kidney Problem, Inflammation, Hepatitis B"
+03/03/2026,Champa Akter,36,Female,B+,10.5,6.6,1.06,22,Positive,4500,"Anemia, Inflammation, Hepatitis B"
+03/03/2026,Mostafa Kamal,20,Male,,14.1,8.6,0.92,44,Negative,13900,"Prediabetes, Inflammation, Leukocytosis"
+03/03/2026,Hamida Begum,45,Female,O-,9.3,6.4,0.75,5.4,Negative,7300,Anemia
+03/03/2026,Morjina Khatun,78,Female,A-,9.9,4.2,1.02,4.6,Negative,9500,Anemia
+04/03/2026,Moriom Khatun,3,Female,,8.8,6.2,1.01,4.2,Negative,10000,Anemia
+04/03/2026,Belal Hossain,23,Male,A+,13,16.7,1.29,50,Positive,9400,"Diabetes, Inflammation, Hepatitis B"
+04/03/2026,Md. Ripon,24,Male,B+,12.8,5.6,0.77,36,Negative,7900,"Anemia, Inflammation"
+04/03/2026,Md. Hasan,39,Male,A+,8.6,5.7,1.26,2.6,Negative,9100,Anemia
+04/03/2026,Sumi Begum,57,Female,O+,12.3,8.4,0.59,47,Negative,5400,"Prediabetes, Kidney Problem, Inflammation"
+04/03/2026,Saleha Begum,76,Female,O+,10.2,4.4,0.84,41,Negative,9500,"Anemia, Inflammation"
+05/03/2026,Salma Begum,64,Female,A+,13.9,22.5,1.03,4.6,Negative,8800,Diabetes
+05/03/2026,Md. Rajib,42,Male,A+,10.4,7.4,0.88,9.8,Positive,7500,"Anemia, Hepatitis B"
+05/03/2026,Karim Hossain,35,Male,,17,5.4,1.33,14.7,Negative,4300,Kidney Problem
+05/03/2026,Belal Hossain,35,Male,AB+,13.8,11.4,1.06,6.8,Negative,9100,Diabetes
+05/03/2026,Md. Nasim,68,Male,B+,16.4,6.9,0.73,12.4,Negative,10200,Normal
+07/03/2026,Ismail Hossain,59,Male,,16.4,6.7,0.76,12.1,Positive,6500,Hepatitis B
+07/03/2026,Md. Sumon,36,Male,B+,11.6,6.7,0.76,1,Negative,8600,Anemia
+07/03/2026,Humayun Kabir,19,Male,O+,11.8,4.5,1.3,10.1,Negative,10100,Anemia
+08/03/2026,Md. Helal,33,Male,,10.7,8.4,0.83,2.5,Negative,5600,"Anemia, Prediabetes"
+08/03/2026,Suraia Khatun,51,Female,O+,12.9,7.5,0.84,25,Negative,7800,Inflammation
+08/03/2026,Sonia Begum,88,Female,A-,11.2,6.4,0.94,39,Positive,10000,"Anemia, Inflammation, Hepatitis B"
+08/03/2026,Shariful Islam,53,Male,O+,15.3,7.3,0.9,28,Negative,7900,Inflammation
+08/03/2026,Sazzad Hossain,23,Male,B+,12.8,5.9,0.87,7,Negative,10700,Anemia
+09/03/2026,Tania Akter,38,Female,O-,12.4,3.9,0.96,29,Negative,9200,Inflammation
+09/03/2026,Shariful Islam,45,Male,B+,9.3,13.1,0.86,13,Negative,8400,"Anemia, Diabetes"
+09/03/2026,Lutfor Rahman,35,Male,,13.5,5.6,0.9,35,Negative,5800,Inflammation
+09/03/2026,Laila Khatun,44,Female,A+,7.7,3.6,0.83,6.7,Negative,4600,Anemia
+09/03/2026,Mostafa Kamal,13,Male,B+,9.4,4.4,1.23,11.5,Negative,5400,Anemia
+09/03/2026,Ripa Khatun,26,Female,A+,12.7,4.2,0.78,14.9,Negative,7500,Normal
+10/03/2026,Mamtaz Begum,22,Female,B+,13.5,5.8,0.52,25,Negative,14900,"Kidney Problem, Inflammation, Leukocytosis"
+10/03/2026,Saidur Rahman,53,Male,O+,14,19.4,1.15,35,Negative,10500,"Diabetes, Inflammation"
+10/03/2026,Mina Begum,48,Female,O+,12.8,9.2,0.63,38,Negative,10200,"Prediabetes, Inflammation"
+10/03/2026,Shahjahan Ali,26,Male,O+,15.6,7.4,0.9,8.1,Negative,9600,Normal
+11/03/2026,Mahmuda Khatun,54,Female,B+,8.6,4,0.4,15.1,Negative,2300,"Anemia, Kidney Problem, Leukopenia"
+11/03/2026,Ferdousi Begum,91,Female,,14.1,10.3,1.04,1.7,Negative,7800,Prediabetes
+11/03/2026,Anwar Hossain,14,Male,B+,15.5,5.8,1.11,8.9,Positive,5000,Hepatitis B
+11/03/2026,Md. Sagor,51,Male,B+,9.5,6.4,1.16,10,Negative,8200,Anemia
+11/03/2026,Reshma Akter,23,Female,,13,7.5,0.89,36,Negative,9800,Inflammation
+11/03/2026,Tariqul Islam,36,Male,O+,9.2,4.4,0.85,24,Negative,13800,"Anemia, Inflammation, Leukocytosis"
+11/03/2026,Saidur Rahman,42,Male,A+,11.4,6.4,0.74,13.3,Negative,9500,Anemia
+11/03/2026,Nur Jahan,34,Female,B+,13.1,6.2,1.1,25,Negative,6700,Inflammation
+12/03/2026,Sazzad Hossain,22,Male,O+,15.8,6,0.71,2,Negative,14900,Leukocytosis
+12/03/2026,Md. Ripon,40,Male,B+,16.3,3.7,0.74,37,Negative,9200,Inflammation
+12/03/2026,Saleha Begum,24,Female,,7.8,9,0.92,11,Negative,7100,"Anemia, Prediabetes"
+12/03/2026,Mitu Khatun,56,Female,B+,12.9,5.2,0.56,11.8,Negative,9400,Kidney Problem
+12/03/2026,Sopna Khatun,14,Female,,12.1,19.9,0.67,10.8,Negative,9400,Diabetes
+12/03/2026,Abdur Rahman,42,Male,O+,14.2,3.6,0.81,19,Negative,5300,Inflammation
+12/03/2026,Lipi Akter,58,Female,A+,13.1,5.2,0.97,8.3,Negative,10500,Normal
+12/03/2026,Rezaul Karim,27,Male,A+,15.1,5.7,0.82,20,Negative,8300,Inflammation
+14/03/2026,Nipa Akter,31,Female,A+,9.5,6.6,0.91,2.4,Negative,5500,Anemia
+14/03/2026,Md. Nasim,62,Male,O+,11.8,6.5,1,13.1,Negative,7100,Anemia
+15/03/2026,Rina Begum,56,Female,B+,14.7,4.3,1.14,11.6,Negative,6000,Kidney Problem
+15/03/2026,Sumaiya Khatun,23,Female,AB+,7.9,7.2,0.55,43,Negative,11000,"Anemia, Kidney Problem, Inflammation"
+15/03/2026,Lutfor Rahman,8,Male,,14.7,4.2,0.95,29,Negative,10100,Inflammation
+15/03/2026,Tariqul Islam,7,Male,A+,14.1,4.8,0.93,12.9,Negative,8600,Normal
+15/03/2026,Md. Jahangir,35,Male,,12.1,6.3,0.72,28,Negative,5300,"Anemia, Inflammation"
+15/03/2026,Delwar Hossain,32,Male,B+,13.2,11.5,1.01,17,Negative,6500,"Diabetes, Inflammation"
+15/03/2026,Nurul Islam,47,Male,O+,12.5,5.2,1.1,28,Negative,9500,"Anemia, Inflammation"
+15/03/2026,Md. Hasan,57,Male,A+,13.6,4.7,0.71,6.8,Negative,10300,Normal
+16/03/2026,Firoza Begum,29,Female,B+,11.4,15.8,0.63,42,Negative,5800,"Anemia, Diabetes, Inflammation"
+16/03/2026,Roksana Begum,10,Female,O+,14.5,3.5,0.86,19,Negative,5900,Normal
+16/03/2026,Md. Ripon,14,Male,AB+,14.1,7.1,1.09,13.4,Positive,8000,Hepatitis B
+16/03/2026,Nipa Akter,24,Female,,11.4,5.1,0.61,19.3,Negative,14500,"Anemia, Leukocytosis"
+16/03/2026,Md. Murad,39,Male,A+,9.1,3.8,0.7,10.3,Negative,3700,"Anemia, Leukopenia"
+16/03/2026,Sumi Begum,32,Female,A-,13.3,7.5,0.48,11,Negative,4500,Kidney Problem
+16/03/2026,Zinnat Ara,60,Female,B+,12.8,5,0.76,21,Negative,7300,Inflammation
+16/03/2026,Anwar Hossain,53,Male,O+,10.2,7.2,0.61,6,Negative,7900,"Anemia, Kidney Problem"
+17/03/2026,Minara Begum,54,Female,B+,11.3,4.2,0.54,37,Negative,7500,"Anemia, Kidney Problem, Inflammation"
+17/03/2026,Anwar Hossain,37,Male,B+,14.8,5.2,1.02,8.9,Negative,7200,Normal
+17/03/2026,Md. Yusuf,36,Male,A+,8.9,6.5,0.97,7,Negative,9900,Anemia
+18/03/2026,Nasrin Akter,52,Female,,12.9,5.5,0.83,37,Negative,12500,"Inflammation, Leukocytosis"
+18/03/2026,Md. Asif,29,Male,,13.8,5.7,0.94,7.3,Negative,4700,Normal
+18/03/2026,Mamtaz Begum,44,Female,O+,15,7,0.6,19.2,Negative,9500,Normal
+18/03/2026,Rubina Khatun,59,Female,A+,13.8,4.1,0.4,54,Negative,12000,"Kidney Problem, Inflammation, Leukocytosis"
+18/03/2026,Kohinur Begum,61,Female,B+,13.5,9.4,0.78,46,Negative,2400,"Prediabetes, Inflammation, Leukopenia"
+18/03/2026,Nasrin Akter,50,Female,O+,11.8,4,0.69,11,Negative,7700,Anemia
+18/03/2026,Suraia Khatun,39,Female,B+,9.7,4.3,0.6,3.1,Negative,7600,Anemia
+19/03/2026,Halima Khatun,74,Female,B+,10.2,7,1.21,51,Negative,10500,"Anemia, Kidney Problem, Inflammation"
+19/03/2026,Mina Begum,15,Female,,10.1,7.3,0.77,7.4,Negative,4700,Anemia
+19/03/2026,Bilkis Begum,36,Female,B+,7.7,4.7,1.09,8.8,Negative,14000,"Anemia, Leukocytosis"
+19/03/2026,Rafiqul Islam,75,Male,,16.2,4.1,0.75,12.9,Negative,14100,Leukocytosis
+19/03/2026,Hasna Khatun,27,Female,A+,13,22,0.99,15,Negative,10000,Diabetes
+21/03/2026,Nipa Begum,59,Female,AB+,11.7,6.3,0.78,71,Negative,7800,"Anemia, Inflammation"
+21/03/2026,Md. Nabil,62,Male,,15.7,6.4,0.71,9.1,Negative,6900,Normal
+21/03/2026,Sumi Begum,26,Female,O+,11.3,6.9,1.05,28,Negative,5400,"Anemia, Inflammation"
+21/03/2026,Taslima Khatun,64,Female,B+,13.8,3.7,0.7,46,Negative,7900,Inflammation
+22/03/2026,Md. Kawsar,52,Male,AB+,15.5,17.4,0.85,34,Negative,8300,"Diabetes, Inflammation"
+22/03/2026,Dilruba Akter,46,Female,B+,14.4,16.9,1.08,2.9,Negative,11700,"Diabetes, Leukocytosis"
+22/03/2026,Sumona Akter,57,Female,A+,12.5,3.6,0.64,8.9,Negative,8000,Normal
+22/03/2026,Jasmin Khatun,64,Female,O+,13.5,6.4,0.87,40,Negative,12200,"Inflammation, Leukocytosis"
+23/03/2026,Md. Murad,39,Male,A+,12.7,3.5,0.72,8.9,Positive,11600,"Anemia, Hepatitis B, Leukocytosis"
+23/03/2026,Nurunnahar,48,Female,A+,14.1,5.6,0.57,14,Negative,7100,Kidney Problem
+23/03/2026,Parvin Begum,68,Female,,10.2,5.5,0.84,10.3,Negative,9900,Anemia
+24/03/2026,Parveen Akter,8,Female,B+,12.6,10.1,0.84,1.2,Negative,8900,Prediabetes
+24/03/2026,Md. Robin,60,Male,,15.8,3.9,0.72,45,Negative,6300,Inflammation
+24/03/2026,Shiuly Akter,53,Female,,7.8,16.4,1.02,36,Negative,6900,"Anemia, Diabetes, Inflammation"
+25/03/2026,Humayun Kabir,36,Male,O+,14.4,4.5,0.83,35,Negative,11600,"Inflammation, Leukocytosis"
+25/03/2026,Moriom Khatun,18,Female,O-,13.4,5.4,0.64,14.4,Negative,9700,Normal
+25/03/2026,Hasna Khatun,21,Female,O+,11.8,20,1.08,15.6,Positive,7100,"Anemia, Diabetes, Hepatitis B"
+25/03/2026,Ripa Khatun,44,Female,A+,9.7,4.6,0.66,17.7,Negative,10400,Anemia
+25/03/2026,Nazrul Islam,61,Male,B+,14.5,5,1.28,12.8,Negative,8100,Normal
+25/03/2026,Md. Asif,33,Male,O+,13.7,5.5,1.07,12,Negative,6900,Normal
+25/03/2026,Sumi Begum,54,Female,AB+,7.9,5.7,1.07,26,Negative,9600,"Anemia, Inflammation"
+25/03/2026,Ruhul Amin,18,Male,,15.1,23.6,1.23,22,Negative,11700,"Diabetes, Inflammation, Leukocytosis"
+26/03/2026,Kamruzzaman,50,Male,A+,9.5,3.9,0.78,9.4,Negative,8300,Anemia
+26/03/2026,Md. Jahangir,23,Male,B-,15.8,6.9,0.79,14.4,Negative,7600,Normal
+26/03/2026,Monira Begum,35,Female,O+,10.2,6.1,0.78,61,Negative,10000,"Anemia, Inflammation"
+26/03/2026,Julekha Khatun,33,Female,AB+,11.9,5,0.8,14.8,Negative,10200,Anemia
+28/03/2026,Jashim Uddin,33,Male,O+,16,5.4,1.22,5.5,Negative,8100,Normal
+28/03/2026,Aleya Khatun,37,Female,A+,12.4,4.9,0.95,14.7,Negative,6000,Normal
+29/03/2026,Lutfor Rahman,41,Male,A+,15.4,4.8,1.19,32,Positive,7200,"Inflammation, Hepatitis B"
+29/03/2026,Jasmin Khatun,10,Female,B+,13.8,7.8,0.72,8.9,Positive,10300,"Prediabetes, Hepatitis B"
+30/03/2026,Champa Akter,41,Female,O+,13.9,23.5,0.53,31,Negative,5700,"Diabetes, Kidney Problem, Inflammation"
+30/03/2026,Parvin Begum,55,Female,A+,11.8,5.2,0.64,38,Negative,5200,"Anemia, Inflammation"
+30/03/2026,Sopna Khatun,53,Female,B+,12.4,5.2,1.04,13.1,Negative,8100,Normal
+30/03/2026,Ripa Khatun,42,Female,O+,8.2,7.1,0.86,18.7,Negative,6900,Anemia
+30/03/2026,Md. Sabbir,47,Male,,13.1,6.7,1.05,8,Negative,5300,Normal
+31/03/2026,Sathi Akter,16,Female,,9.7,6.3,0.97,12.7,Negative,8000,Anemia
+31/03/2026,Abdur Rahman,8,Male,B+,14.5,5.2,0.87,23,Negative,10700,Inflammation
+01/04/2026,Polash Mia,38,Male,,14.5,5.3,0.99,20,Negative,9700,Inflammation
+01/04/2026,Rina Akter,30,Female,B+,11.1,5.8,1.01,13.7,Negative,10200,Anemia
+01/04/2026,Poly Begum,51,Female,,11.5,6,0.73,61,Negative,7200,"Anemia, Inflammation"
+01/04/2026,Rina Akter,27,Female,,10.7,6,0.6,19,Negative,9500,Anemia
+02/04/2026,Mitu Khatun,26,Female,A-,9.1,8.7,1.03,23,Negative,6200,"Anemia, Prediabetes, Inflammation"
+02/04/2026,Kamrun Nahar,45,Female,A+,9.3,3.7,0.83,20,Negative,4600,Anemia
+02/04/2026,Nipa Begum,14,Female,,13.3,7.1,0.72,14,Negative,6800,Normal
+02/04/2026,Morsheda Khatun,56,Female,A+,9.1,7.5,0.93,17.5,Negative,9100,Anemia
+02/04/2026,Lovely Begum,57,Female,O+,8.9,5.2,0.76,62,Negative,9800,"Anemia, Inflammation"
+02/04/2026,Nusrat Jahan,32,Female,O+,9.9,6.6,0.54,38,Negative,9800,"Anemia, Kidney Problem, Inflammation"
+02/04/2026,Md. Robin,39,Male,,15.3,5.6,0.91,2.9,Negative,5700,Normal
+02/04/2026,Md. Kawsar,50,Male,O+,10.2,11.5,0.75,5,Negative,5900,"Anemia, Diabetes"
+04/04/2026,Md. Tushar,37,Male,AB+,15.1,5.6,0.69,18,Negative,10700,"Kidney Problem, Inflammation"
+04/04/2026,Shiuly Akter,55,Female,O+,10,5.6,0.75,9.2,Negative,9500,Anemia
+04/04/2026,Josna Begum,65,Female,,8.3,4.9,0.98,10.9,Negative,7500,Anemia
+04/04/2026,Mukta Khatun,46,Female,O+,12.3,7.1,0.9,55,Negative,12100,"Inflammation, Leukocytosis"
+05/04/2026,Tahmina Akter,52,Female,O+,7.5,6.4,0.83,53,Negative,6500,"Anemia, Inflammation"
+05/04/2026,Sadia Islam,32,Female,AB+,12.6,5.7,0.76,19,Negative,9400,Normal
+05/04/2026,Halima Khatun,65,Female,B+,8.9,5.7,0.7,11.6,Positive,5600,"Anemia, Hepatitis B"

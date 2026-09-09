@@ -1,0 +1,842 @@
+/*   Pathology Disease Prediction & Clinical Decision Support System
+    Clean, Modern & Eye-Friendly Medical UI Design System     */
+
+/* 1. Global CSS Variables (Theme Color System) */
+:root {
+    /* Brand Colors - Soothing Clinical Blue & Medical Teal */
+    --bg-gradient: linear-gradient(135deg, #0284c7 0%, #0f766e 100%);
+    --primary: #0284c7;
+    --primary-hover: #0369a1;
+    --primary-light: #e0f2fe;
+    --primary-subtle: #f0f9ff;
+    --accent: #0d9488;
+    --accent-hover: #115e59;
+    --accent-light: #ccfbf1;
+
+    /* Neutral Typography & Surface Colors */
+    --text-main: #0f172a;
+    /* Slate 900 for sharp readability */
+    --text-muted: #334155;
+    /* Slate 700 for labels and subtitles */
+    --text-light: #64748b;
+    /* Slate 500 for hints and footnotes */
+    --bg-page: #f1f5f9;
+    /* Slate 100 */
+    --bg-card: #ffffff;
+    --bg-input: #f8fafc;
+    /* Slate 50 */
+    --border-color: #e2e8f0;
+    /* Slate 200 */
+    --border-focus: #0284c7;
+
+    /* Status Colors - Soft, Accessible & Non-Harsh */
+    --danger-bg: #fff1f2;
+    --danger-border: #fecdd3;
+    --danger-text: #be123c;
+    --danger-primary: #e11d48;
+
+    --success-bg: #f0fdf4;
+    --success-border: #bbf7d0;
+    --success-text: #15803d;
+    --success-primary: #16a34a;
+
+    --warning-bg: #fffbeb;
+    --warning-border: #fde68a;
+    --warning-text: #b45309;
+
+    /* Elevated Shadows */
+    --shadow-sm: 0 1px 3px rgba(15, 23, 42, 0.05);
+    --shadow-md: 0 4px 14px rgba(15, 23, 42, 0.06);
+    --shadow-lg: 0 15px 35px -5px rgba(15, 23, 42, 0.12), 0 6px 15px -4px rgba(15, 23, 42, 0.06);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+}
+
+/* 2. Reset & Base Elements */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg-gradient);
+    color: var(--text-main);
+    line-height: 1.55;
+    min-height: 100vh;
+    padding: 0 0 2.5rem 0;
+}
+
+/* 3. Navigation Bar */
+.navbar {
+    background-color: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.85rem 1.25rem;
+    box-shadow: var(--shadow-sm);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.nav-container {
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.nav-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: var(--text-main);
+    font-size: 1.2rem;
+    font-weight: 800;
+    letter-spacing: -0.4px;
+    transition: color 0.2s ease;
+}
+
+.nav-logo:hover {
+    color: var(--primary);
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    text-decoration: none;
+    color: var(--primary-hover);
+    background-color: var(--primary-subtle);
+    border: 1px solid #bae6fd;
+    font-size: 0.86rem;
+    font-weight: 600;
+    padding: 0.45rem 0.95rem;
+    border-radius: var(--radius-sm);
+    transition: all 0.2s ease;
+}
+
+.nav-link:hover {
+    background-color: var(--primary-light);
+    color: var(--primary-hover);
+    border-color: #7dd3fc;
+}
+
+/* 4. Main Layout Container */
+.container {
+    width: 100%;
+    max-width: 860px;
+    margin: 1.25rem auto 0 auto;
+    padding: 0 1rem;
+}
+
+/* 5. Header Component (For standalone or embedded hero section) */
+.header {
+    text-align: center;
+    padding: 30px 20px 24px;
+    color: #ffffff;
+}
+
+.header .logo {
+    font-size: 44px;
+    margin-bottom: 8px;
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.15));
+}
+
+.header h1 {
+    font-size: 2.1rem;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    margin-bottom: 6px;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.header p {
+    font-size: 0.98rem;
+    opacity: 0.92;
+    font-weight: 400;
+    max-width: 540px;
+    margin: 0 auto;
+}
+
+/* 6. Info Highlights Banner */
+.info-banner {
+    background: rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--radius-md);
+    padding: 0.8rem 1.2rem;
+    margin-bottom: 1.1rem;
+    font-size: 0.88rem;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    box-shadow: var(--shadow-sm);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.info-banner strong {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+/* 7. Quick 1-Click Demo Buttons Bar */
+.demo-bar {
+    background-color: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 0.8rem 1.2rem;
+    margin-bottom: 1.1rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    box-shadow: var(--shadow-sm);
+}
+
+.demo-label {
+    font-size: 0.86rem;
+    font-weight: 700;
+    color: var(--text-muted);
+}
+
+.demo-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.btn-sample {
+    background-color: var(--input-bg);
+    border: 1px solid var(--border-color);
+    color: var(--text-muted);
+    padding: 0.4rem 0.8rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.2s ease;
+}
+
+.btn-sample:hover {
+    background-color: var(--primary-subtle);
+    border-color: #7dd3fc;
+    color: var(--primary-hover);
+    transform: translateY(-1px);
+}
+
+/* 8. Main Card Box */
+.card {
+    background-color: var(--bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    padding: 2.2rem 2.4rem;
+    box-shadow: var(--shadow-lg);
+    margin-bottom: 1.5rem;
+}
+
+.card-header-box {
+    text-align: center;
+    margin-bottom: 1.8rem;
+    padding-bottom: 1.1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.card-title {
+    font-size: 1.45rem;
+    font-weight: 800;
+    color: var(--text-main);
+    letter-spacing: -0.3px;
+    margin-bottom: 0.35rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.card-desc {
+    font-size: 0.92rem;
+    color: var(--text-light);
+}
+
+/* 9. Form Grid & Input Styling */
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+    margin-bottom: 1.6rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+}
+
+.form-group.full-width {
+    grid-column: 1 / -1;
+}
+
+label {
+    font-size: 0.84rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    letter-spacing: 0.2px;
+}
+
+.range-hint {
+    font-size: 0.74rem;
+    font-weight: 500;
+    color: var(--text-light);
+    background-color: #f1f5f9;
+    padding: 0.15rem 0.5rem;
+    border-radius: var(--radius-sm);
+}
+
+input[type="number"],
+select {
+    width: 100%;
+    padding: 0.72rem 0.95rem;
+    font-size: 0.94rem;
+    color: var(--text-main);
+    background-color: var(--bg-input);
+    border: 1.5px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    outline: none;
+    font-family: inherit;
+    transition: all 0.2s ease;
+}
+
+input[type="number"]:focus,
+select:focus {
+    background-color: #ffffff;
+    border-color: var(--border-focus);
+    box-shadow: 0 0 0 3.5px rgba(2, 132, 199, 0.15);
+}
+
+select {
+    cursor: pointer;
+}
+
+/* 10. Action Buttons */
+.button-group {
+    display: flex;
+    gap: 0.85rem;
+    margin-top: 0.6rem;
+}
+
+.btn-clear {
+    flex: 1;
+    background-color: #ffffff;
+    border: 1.5px solid var(--border-color);
+    color: var(--text-muted);
+    padding: 0.85rem 1.2rem;
+    border-radius: var(--radius-md);
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn-clear:hover {
+    background-color: #f8fafc;
+    color: var(--text-main);
+    border-color: #cbd5e1;
+}
+
+.btn-predict {
+    flex: 2;
+    background: linear-gradient(135deg, #0284c7 0%, #0f766e 100%);
+    border: none;
+    color: #ffffff;
+    padding: 0.88rem 1.4rem;
+    border-radius: var(--radius-md);
+    font-size: 1.02rem;
+    font-weight: 700;
+    font-family: inherit;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(2, 132, 199, 0.3);
+    transition: all 0.22s ease;
+    letter-spacing: 0.2px;
+}
+
+.btn-predict:hover {
+    background: linear-gradient(135deg, #0369a1 0%, #115e59 100%);
+    box-shadow: 0 8px 20px rgba(2, 132, 199, 0.4);
+    transform: translateY(-1px);
+}
+
+.btn-predict:active {
+    transform: translateY(0);
+}
+
+.btn-predict:disabled {
+    opacity: 0.65;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+/* 11. Loading Spinner */
+.loading {
+    display: none;
+    text-align: center;
+    padding: 1.5rem 0 0.5rem 0;
+    font-size: 0.94rem;
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.spinner {
+    width: 38px;
+    height: 38px;
+    border: 3.5px solid #e0f2fe;
+    border-top: 3.5px solid var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 0.75rem auto;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* 12. Dynamic Prediction Results Area */
+#result-area {
+    display: none;
+}
+
+.result-header {
+    border-radius: var(--radius-md);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.result-header.normal {
+    background-color: var(--success-bg);
+    border: 1.5px solid var(--success-border);
+    color: var(--success-text);
+}
+
+.result-header.has-disease {
+    background-color: var(--danger-bg);
+    border: 1.5px solid var(--danger-border);
+    color: var(--danger-text);
+}
+
+.result-header h2 {
+    font-size: 1.35rem;
+    font-weight: 800;
+    margin-bottom: 0.25rem;
+}
+
+.result-header p {
+    font-size: 0.92rem;
+    opacity: 0.95;
+}
+
+/* Normal Healthy Profile Card */
+.normal-card {
+    text-align: center;
+    padding: 2.2rem 1.6rem;
+    background: var(--success-bg);
+    border: 1.5px solid var(--success-border);
+    border-radius: var(--radius-lg);
+    margin-bottom: 1.5rem;
+}
+
+.normal-card .big-icon {
+    font-size: 3.2rem;
+    margin-bottom: 0.6rem;
+}
+
+.normal-card h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--success-text);
+    margin-bottom: 0.4rem;
+}
+
+.normal-card p {
+    font-size: 0.92rem;
+    color: var(--text-muted);
+}
+
+/* Disease Cards */
+.disease-cards {
+    display: grid;
+    gap: 1.1rem;
+}
+
+.disease-card {
+    border: 1.5px solid var(--border-color);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    margin-bottom: 1rem;
+    background-color: #ffffff;
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.disease-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.disease-card-header {
+    padding: 0.9rem 1.25rem;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+}
+
+.disease-card-header .icon {
+    font-size: 1.7rem;
+    line-height: 1;
+}
+
+.disease-card-header .name {
+    font-size: 1.12rem;
+    font-weight: 700;
+}
+
+.disease-card-header .desc {
+    font-size: 0.84rem;
+    opacity: 0.95;
+    margin-top: 0.15rem;
+}
+
+.disease-card-body {
+    padding: 1.2rem 1.25rem;
+    background-color: #ffffff;
+}
+
+.info-section {
+    margin-bottom: 0.95rem;
+}
+
+.info-section:last-child {
+    margin-bottom: 0;
+}
+
+.info-section h4 {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--text-light);
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
+
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag {
+    padding: 0.35rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.tag.med {
+    background-color: var(--primary-light);
+    color: var(--primary-hover);
+    border: 1px solid #bae6fd;
+}
+
+.tag.adv {
+    background-color: var(--success-bg);
+    color: var(--success-text);
+    border: 1px solid var(--success-border);
+}
+
+/* Reset / New Prediction Button */
+.btn-reset {
+    width: 100%;
+    background-color: #ffffff;
+    color: var(--primary);
+    border: 1.5px solid var(--primary);
+    padding: 0.85rem 1.2rem;
+    border-radius: var(--radius-md);
+    font-size: 0.98rem;
+    font-weight: 700;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-top: 0.5rem;
+}
+
+.btn-reset:hover {
+    background-color: var(--primary-subtle);
+    border-color: var(--primary-hover);
+    color: var(--primary-hover);
+}
+
+/* 13. About Model Page Styles */
+.about-card {
+    padding: 2.2rem 2.4rem;
+}
+
+.about-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.about-header h2 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--text-main);
+    letter-spacing: -0.4px;
+    margin-bottom: 0.4rem;
+}
+
+.about-header p {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    max-width: 580px;
+    margin: 0 auto;
+}
+
+.section-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--text-main);
+    margin-bottom: 0.85rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.table-responsive {
+    width: 100%;
+    overflow-x: auto;
+    margin-bottom: 1.5rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-color);
+}
+
+.performance-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.92rem;
+    background-color: #ffffff;
+}
+
+.performance-table th {
+    text-align: left;
+    padding: 0.85rem 1.1rem;
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    background-color: #f8fafc;
+    border-bottom: 1.5px solid var(--border-color);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
+
+.performance-table th:not(:first-child),
+.performance-table td:not(:first-child) {
+    text-align: right;
+}
+
+.performance-table td {
+    padding: 0.85rem 1.1rem;
+    color: var(--text-muted);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.performance-table tr:last-child td {
+    border-bottom: none;
+}
+
+.performance-table tr.highlight-best {
+    background-color: var(--primary-subtle);
+}
+
+.performance-table tr.highlight-best td {
+    color: var(--primary-hover);
+    font-weight: 700;
+}
+
+.why-box {
+    background-color: var(--bg-input);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--primary);
+    border-radius: var(--radius-md);
+    padding: 1.25rem 1.4rem;
+    margin-bottom: 1.75rem;
+}
+
+.why-box h4 {
+    font-size: 0.96rem;
+    font-weight: 700;
+    color: var(--text-main);
+    margin-bottom: 0.6rem;
+}
+
+.why-box ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.why-box li {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    position: relative;
+    padding-left: 1.2rem;
+    margin-bottom: 0.35rem;
+}
+
+.why-box li::before {
+    content: "•";
+    position: absolute;
+    left: 0.3rem;
+    color: var(--primary);
+    font-size: 1.1rem;
+}
+
+.why-box code {
+    background-color: #e2e8f0;
+    color: var(--text-main);
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 0.84rem;
+}
+
+.about-actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-goto {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: linear-gradient(135deg, #0284c7 0%, #0f766e 100%);
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0.75rem 1.4rem;
+    border-radius: var(--radius-md);
+    font-size: 0.95rem;
+    font-weight: 700;
+    box-shadow: 0 4px 12px rgba(2, 132, 199, 0.25);
+    transition: all 0.2s ease;
+}
+
+.btn-goto:hover {
+    background: linear-gradient(135deg, #0369a1 0%, #115e59 100%);
+    box-shadow: 0 6px 16px rgba(2, 132, 199, 0.35);
+    transform: translateY(-1px);
+}
+
+/* 14. Academic Disclaimer Footer */
+.footer-disclaimer {
+    text-align: center;
+    margin-top: 1.6rem;
+    padding: 1.2rem 1.4rem;
+    background: rgba(255, 255, 255, 0.14);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: var(--radius-md);
+    color: #ffffff;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+}
+
+.footer-disclaimer .disclaimer-title {
+    font-size: 0.88rem;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+    color: #ffffff;
+}
+
+.footer-disclaimer .disclaimer-text {
+    font-size: 0.82rem;
+    color: rgba(255, 255, 255, 0.92);
+    line-height: 1.5;
+    max-width: 680px;
+    margin: 0 auto 0.65rem auto;
+}
+
+.footer-disclaimer .disclaimer-credit {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #e0f2fe;
+    padding-top: 0.55rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    letter-spacing: 0.3px;
+}
+
+/* 15. Responsive Adaptations */
+@media (max-width: 640px) {
+    body {
+        padding: 0 0 1.5rem 0;
+    }
+
+    .container {
+        padding: 0 0.75rem;
+    }
+
+    .card {
+        padding: 1.5rem 1.15rem;
+        border-radius: var(--radius-md);
+    }
+
+    .form-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .header h1 {
+        font-size: 1.65rem;
+    }
+
+    .button-group {
+        flex-direction: column;
+    }
+
+    .demo-bar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
