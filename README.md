@@ -109,6 +109,5 @@ Extensively evaluated across 5 machine learning algorithms on 1,210 clinical rec
 ## 👨‍💻 Project Information
 
 - **Md. Naimul Islam** (ID: 0242220005101086)
-- **Arafat** (ID: 0242220005101415)
 
 **Supervisor:** Mr. Mehadi Hasan (Lecturer, Department of CSE, Daffodil International University)
