@@ -1,3 +1,13 @@
+import sys
+import types
+
+# Windows Smart App Control compatibility fix for Python 3.14 / scikit-learn
+if 'sklearn.metrics._pairwise_distances_reduction._radius_neighbors_classmode' not in sys.modules:
+    dummy_rn = types.ModuleType('sklearn.metrics._pairwise_distances_reduction._radius_neighbors_classmode')
+    dummy_rn.RadiusNeighborsClassMode64 = None
+    dummy_rn.RadiusNeighborsClassMode32 = None
+    sys.modules['sklearn.metrics._pairwise_distances_reduction._radius_neighbors_classmode'] = dummy_rn
+
 import os
 import pickle
 import numpy as np

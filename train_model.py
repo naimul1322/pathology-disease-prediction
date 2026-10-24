@@ -1,3 +1,13 @@
+import sys
+import types
+
+# Windows Smart App Control compatibility fix for Python 3.14 / scikit-learn
+if 'sklearn.metrics._pairwise_distances_reduction._radius_neighbors_classmode' not in sys.modules:
+    dummy_rn = types.ModuleType('sklearn.metrics._pairwise_distances_reduction._radius_neighbors_classmode')
+    dummy_rn.RadiusNeighborsClassMode64 = None
+    dummy_rn.RadiusNeighborsClassMode32 = None
+    sys.modules['sklearn.metrics._pairwise_distances_reduction._radius_neighbors_classmode'] = dummy_rn
+
 import os
 import pickle
 import pandas as pd
@@ -33,13 +43,7 @@ DISEASE_LABELS = [
 
 
 def train_and_save():
-    """
-    Trains the MultiOutput Decision Tree Classifier using the exact parameters
-    and pipeline established in Final_Pathology_ML.ipynb:
-    - Preprocessing: Standardized 7 clinical features, encoded Sex and HBsAg
-    - Model: DecisionTreeClassifier(max_depth=3, min_samples_leaf=15, random_state=42)
-    - Saves trained model and scaler to the 'model/' directory
-    """
+    
     # 1. Locate the dataset
     data_path = os.path.join('project', 'data', 'pathology_dataset.csv')
     if not os.path.exists(data_path):
