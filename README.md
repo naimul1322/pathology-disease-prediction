@@ -1,4 +1,4 @@
-# 🏥 PathoDx — Pathology Disease Predictor
+# Pathology Disease Predictor
 ### Multi-Output Decision Tree Clinical Decision Support System | DIU FYDP
 
 ---
